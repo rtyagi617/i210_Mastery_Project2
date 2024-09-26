@@ -1,0 +1,995 @@
+track_name,artist_name,artist_popularity,artist_genres,artist_followers,track_popularity,track_acousticness,track_danceability,track_duration_ms,track_energy,track_instrumentalness,track_loudness,track_tempo,track_valence
+As It Was,Harry Styles,94,pop,21002505,100,0.342,0.52,167303,0.731,0.00101,-5.338,173.93,0.662
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,94,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+N95,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,90,0.377,0.79,195950,0.67,2.32E-06,-5.527,139.956,0.408
+Moscow Mule,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,95,0.294,0.804,245940,0.674,1.18E-06,-5.453,99.968,0.292
+About Damn Time,Lizzo,79,"dance pop, escape room, minnesota hip hop, pop, trap queen",4651200,92,0.0995,0.836,191822,0.743,0,-6.305,108.966,0.722
+Die Hard,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,88,0.319,0.775,239027,0.736,0.00116,-8.072,100.988,0.362
+Tití Me Preguntó,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,94,0.0993,0.65,243717,0.715,0.000291,-5.198,106.672,0.187
+Me Porto Bonito,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,95,0.0901,0.911,178567,0.712,2.68E-05,-5.105,92.005,0.425
+United In Grief,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,86,0.244,0.529,255378,0.845,0,-8.142,85.63,0.331
+Después de la Playa,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,91,0.356,0.564,230400,0.903,0,-3.221,78.293,0.607
+Father Time (feat. Sampha),Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,85,0.181,0.514,222497,0.779,0,-4.365,152.869,0.517
+Silent Hill,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,85,0.438,0.907,220779,0.577,3.19E-05,-6.737,140.07,0.801
+Rich Spirit,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,85,0.428,0.852,202285,0.421,2.28E-06,-9.153,95.977,0.457
+Late Night Talking,Harry Styles,94,pop,21002505,92,0.298,0.714,177955,0.728,0,-4.595,114.996,0.901
+WAIT FOR U (feat. Drake & Tems),Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,88,0.314,0.463,189893,0.642,0,-4.474,83.389,0.339
+Party,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,93,0.0151,0.829,227629,0.799,0.000543,-5.389,97.013,0.471
+Count Me Out,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,84,0.671,0.776,283642,0.431,0,-7.544,133.999,0.495
+Worldwide Steppers,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,83,0.753,0.514,203367,0.472,0.00012,-11.106,77.215,0.557
+Savior,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,83,0.495,0.605,224466,0.692,0,-7.45,124.84,0.685
+We Cry Together,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,83,0.292,0.648,341307,0.68,0,-7.276,106.89,0.504
+Purple Hearts,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,83,0.167,0.567,329295,0.824,2.65E-06,-6.973,138.202,0.737
+Music For a Sushi Restaurant,Harry Styles,94,pop,21002505,89,0.258,0.72,193813,0.715,0.0568,-4.652,107.041,0.357
+Matilda,Harry Styles,94,pop,21002505,89,0.896,0.507,245964,0.294,1.97E-05,-10,114.199,0.386
+Ojitos Lindos,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,95,0.08,0.647,258299,0.686,1.34E-06,-5.745,79.928,0.268
+Grapejuice,Harry Styles,94,pop,21002505,88,0.357,0.645,191959,0.721,0.143,-4.394,182.928,0.88
+Daylight,Harry Styles,94,pop,21002505,88,0.484,0.686,164533,0.445,0.00144,-7.189,145.5,0.626
+Little Freak,Harry Styles,94,pop,21002505,88,0.719,0.559,202183,0.535,0.000143,-7.723,141.96,0.402
+Mr. Morale,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,81,0.283,0.727,210841,0.53,2.76E-05,-8.616,174.025,0.258
+Tarot,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,91,0.0225,0.795,237895,0.684,0,-3.971,114.011,0.419
+Rich - Interlude,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,81,0.864,0.481,103319,0.406,0.000315,-11.52,91.589,0.741
+Crown,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,80,0.801,0.355,264299,0.245,9.11E-05,-13.475,173.329,0.162
+Un Ratito,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,90,0.305,0.787,176936,0.546,4.55E-05,-7.094,93.05,0.222
+Cinema,Harry Styles,94,pop,21002505,87,0.354,0.829,243508,0.644,0.0511,-7.696,105.993,0.896
+Satellite,Harry Styles,94,pop,21002505,87,0.143,0.576,218577,0.457,3.05E-05,-6.473,138.984,0.301
+Keep Driving,Harry Styles,94,pop,21002505,87,0.321,0.721,140242,0.479,0.00156,-9.669,164.948,0.902
+You Proof,Morgan Wallen,84,contemporary country,3415943,81,0.252,0.731,157478,0.85,0,-4.913,119.706,0.644
+Auntie Diaries,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,80,0.745,0.52,281070,0.375,0.0122,-13.409,127.544,0.589
+Daydreaming,Harry Styles,94,pop,21002505,87,0.311,0.707,187342,0.811,0.0152,-5.298,113.971,0.899
+Dua Lipa,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,85,0.00161,0.833,135053,0.652,0.0985,-6.942,158.022,0.405
+Savior - Interlude,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,79,0.807,0.618,152986,0.43,0,-9.38,117.125,0.826
+Mirror,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,80,0.225,0.652,256008,0.67,1.40E-05,-8.766,91.933,0.274
+As It Was,Harry Styles,94,pop,21002505,89,0.342,0.52,167303,0.731,0.00101,-5.338,173.93,0.662
+Love Of My Life,Harry Styles,94,pop,21002505,87,0.669,0.555,191638,0.536,0,-8.233,118.057,0.203
+Yo No Soy Celoso,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,89,0.275,0.872,230704,0.588,0,-6.276,142.004,0.93
+PROVENZA,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,93,0.656,0.87,210200,0.516,0.00823,-8.006,111.005,0.53
+Mother I Sober (feat. Beth Gibbons of Portishead),Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,79,0.87,0.492,406528,0.369,2.85E-05,-14.861,140.012,0.491
+Boyfriends,Harry Styles,94,pop,21002505,86,0.935,0.417,194544,0.202,0,-10.976,118.029,0.323
+Boyfriend,Dove Cameron,73,"pop, post-teen pop",3457935,88,0.232,0.345,153000,0.612,0,-6.543,179.773,0.232
+Efecto,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,90,0.141,0.801,213061,0.475,1.73E-05,-8.797,98.047,0.234
+Neverita,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,89,0.0706,0.876,173119,0.498,0,-7.511,122.016,0.428
+PUFFIN ON ZOOTIEZ,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,81,0.0603,0.883,172933,0.657,0,-5.748,124.992,0.284
+La Corriente,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,89,0.229,0.663,198367,0.786,0,-3.51,196.12,0.579
+MAMIII,Becky G,81,"dance pop, latin, latin viral pop, rap latina, reggaeton",11553692,91,0.0934,0.843,226088,0.7,0,-3.563,93.991,0.899
+Cooped Up (with Roddy Ricch),Post Malone,87,"dfw rap, melodic rap, rap",36990052,86,0.038,0.669,185857,0.773,0,-5.619,93.923,0.377
+Thousand Miles,The Kid LAROI,83,australian hip hop,3722253,87,0.0858,0.376,164782,0.657,0,-4.658,80.565,0.203
+Something in the Orange,Zach Bryan,79,oklahoma country,416727,80,0.555,0.369,228013,0.192,8.35E-06,-12.151,175.212,0.148
+Don't Think Jesus,Morgan Wallen,84,contemporary country,3415943,78,0.469,0.578,226975,0.431,0,-7.034,116.979,0.21
+Otro Atardecer,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,87,0.59,0.777,244444,0.595,0.00139,-6.79,108.02,0.546
+pushin P (feat. Young Thug),Gunna,85,"atl hip hop, melodic rap, rap, trap",4312479,83,0.00783,0.773,136267,0.422,0.00693,-4.572,77.502,0.488
+Bam Bam (feat. Ed Sheeran),Camila Cabello,83,"dance pop, pop, post-teen pop",26802962,90,0.182,0.756,206071,0.697,0,-6.377,94.996,0.956
+Aguacero,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,88,0.423,0.861,210989,0.645,0.000592,-6.96,121.391,0.668
+Andrea,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,88,0.762,0.797,339612,0.616,0.000293,-10.229,103.071,0.451
+El Apagón,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,86,0.0509,0.629,201816,0.698,0.00166,-4.485,117.765,0.599
+Dos Mil 16,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,88,0.123,0.817,208615,0.67,1.92E-06,-6.534,130.058,0.495
+I'M ON ONE (feat. Drake),Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,81,0.0103,0.773,236187,0.707,1.04E-05,-5.71,76.977,0.113
+MIA,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,4,0.0141,0.817,210368,0.539,0.000496,-6.349,97.061,0.158
+MIA,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,3,0.0141,0.817,210368,0.539,0.000496,-6.349,97.061,0.158
+MIA,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,4,0.0141,0.817,210368,0.539,0.000496,-6.349,97.061,0.158
+MIA,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,4,0.0141,0.817,210368,0.539,0.000496,-6.349,97.061,0.158
+Numb Little Bug,Em Beihold,68,"alt z, gen z singer-songwriter",218091,83,0.327,0.742,169238,0.527,0,-6.892,84.974,0.638
+Right On,Lil Baby,88,"atl hip hop, atl trap, rap, trap",10549680,80,0.0245,0.535,213976,0.618,0,-5.668,165.991,0.211
+Un Coco,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,88,0.207,0.839,196413,0.69,8.33E-06,-4.464,151.991,0.744
+she's all i wanna be,Tate McRae,80,pop,2795593,86,0.0134,0.614,206772,0.644,7.07E-06,-5.372,160.036,0.651
+Churchill Downs (feat. Drake),Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,82,0.615,0.71,309327,0.522,0,-9.102,96.448,0.37
+Nail Tech,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,81,0.00508,0.677,206385,0.557,8.36E-06,-8.409,150.127,0.1
+Enséñame a Bailar,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,87,0.191,0.81,176000,0.789,1.08E-05,-5.08,105.009,0.77
+In My Head,Lil Tjay,81,"brooklyn drill, melodic rap, nyc rap",5120917,84,0.159,0.684,135264,0.545,0,-6.885,143.049,0.407
+Me Fui de Vacaciones,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,89,0.229,0.714,180930,0.645,0.00083,-5.493,85.046,0.434
+Sweetest Pie,Megan Thee Stallion,81,"dance pop, houston rap, pop, trap queen",6602472,85,0.167,0.814,201334,0.628,0,-7.178,123.977,0.677
+Un Verano Sin Ti,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,87,0.693,0.503,148143,0.496,0,-9.123,187.844,0.412
+The Heart Part 5,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,81,0.183,0.7,332229,0.812,0,-8.128,97.405,0.801
+N95,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,57,0.418,0.812,195950,0.669,4.16E-06,-5.569,140.01,0.42
+Die Hard,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,58,0.317,0.777,239027,0.737,0.00112,-8.06,100.976,0.361
+United In Grief,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,54,0.242,0.698,255378,0.844,0,-8.143,87.393,0.333
+Father Time (feat. Sampha),Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,53,0.19,0.53,222497,0.759,0,-5.103,152.79,0.487
+Worldwide Steppers,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,51,0.746,0.521,203367,0.47,0.000245,-11.147,77.375,0.51
+Rich Spirit,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,51,0.45,0.855,202285,0.437,1.52E-05,-9.082,96.035,0.397
+We Cry Together,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,50,0.224,0.614,341307,0.646,0,-7.876,142.385,0.423
+Count Me Out,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,51,0.686,0.78,283642,0.404,0,-7.512,133.989,0.496
+Purple Hearts,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,50,0.157,0.603,329295,0.821,1.44E-05,-7.025,138.139,0.739
+Silent Hill,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,50,0.434,0.902,220779,0.56,0.000218,-6.685,140.049,0.807
+Savior,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,49,0.507,0.607,224466,0.689,0,-7.573,123.286,0.672
+What Happened To Virgil (feat. Gunna),Lil Durk,84,"chicago drill, chicago rap, drill, hip hop, rap, trap",4075650,79,0.067,0.795,181393,0.526,2.00E-06,-9.086,140.037,0.194
+Mr. Morale,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,49,0.282,0.733,210841,0.532,4.11E-05,-8.621,174.018,0.272
+Rich - Interlude,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,49,0.864,0.433,103319,0.394,0.000771,-11.602,84.02,0.695
+Crown,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,47,0.792,0.353,264299,0.247,8.15E-05,-13.472,176.239,0.161
+Mirror,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,46,0.218,0.654,256008,0.675,1.42E-05,-8.766,91.862,0.269
+Mother I Sober (feat. Beth Gibbons of Portishead),Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,46,0.868,0.491,406528,0.368,2.45E-05,-14.828,140.309,0.514
+Auntie Diaries,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,46,0.747,0.613,281070,0.374,0.0167,-13.53,127.628,0.622
+Savior - Interlude,Kendrick Lamar,92,"conscious hip hop, hip hop, rap, west coast rap",20409485,45,0.778,0.711,152986,0.397,0,-9.323,117.87,0.819
+10 Things I Hate About You,Leah Kate,69,"alt z, pop",78687,84,0.00991,0.544,157138,0.786,0,-2.97,153.967,0.446
+Thought You Should Know,Morgan Wallen,84,contemporary country,3415943,77,0.488,0.529,215572,0.695,1.24E-05,-6.174,139.993,0.514
+Light Switch,Charlie Puth,80,"dance pop, pop, viral pop",16205866,86,0.105,0.69,185681,0.626,0.000335,-5.693,184.009,0.912
+Agosto,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,86,0.0929,0.849,139041,0.584,6.18E-06,-8.195,115.018,0.724
+When You're Gone,Shawn Mendes,84,"canadian pop, pop, viral pop",37912931,86,0.0248,0.603,172267,0.691,0,-5.805,147.148,0.577
+Flowers,Lauren Spencer-Smith,72,"alt z, gen z singer-songwriter, pop",669484,82,0.869,0.684,157373,0.449,0,-9.738,66.165,0.341
+Fingers Crossed,Lauren Spencer-Smith,72,"alt z, gen z singer-songwriter, pop",669484,83,0.618,0.56,175345,0.473,0,-7.23,109.414,0.441
+Banking On Me,Gunna,85,"atl hip hop, melodic rap, rap, trap",4312479,78,0.613,0.793,200000,0.308,1.68E-05,-10.414,135.143,0.46
+X ÚLTIMA VEZ,Daddy Yankee,88,"latin, latin hip hop, reggaeton, trap latino",27623489,89,0.0789,0.812,192477,0.855,0.000167,-3.725,90.04,0.573
+P power (feat. Drake),Gunna,85,"atl hip hop, melodic rap, rap, trap",4312479,78,0.0199,0.828,193347,0.591,0.000323,-6.217,119.251,0.202
+Soy El Unico,Yahritza Y Su Esencia,67,nueva musica mexicana,152573,81,0.451,0.708,214000,0.449,0,-4.369,84.396,0.63
+In A Minute,Lil Baby,88,"atl hip hop, atl trap, rap, trap",10549680,79,0.0336,0.643,200471,0.605,0,-5.968,84.216,0.145
+Freaky Deaky,Tyga,80,"dance pop, hip hop, pop, pop rap, rap, southern hip hop, trap",6584136,81,0.019,0.799,215281,0.653,0,-5.453,104.019,0.236
+This Love (Taylor’s Version),Taylor Swift,92,pop,53613642,82,0.302,0.47,250100,0.494,0,-8.672,144.039,0.0524
+In The Stars,Benson Boone,71,pop,323608,85,0.338,0.362,216410,0.54,0,-6.031,78.007,0.3
+Bones,Imagine Dragons,87,"modern rock, rock",40280264,86,0.0206,0.773,165265,0.742,0,-3.678,114.071,0.571
+Callaita,Bad Bunny,100,"latin, reggaeton, trap latino",49024244,84,0.597,0.608,250534,0.626,2.16E-06,-4.773,176.086,0.246
+Bestie,DaBaby,83,"north carolina hip hop, rap, trap",9667695,77,0.0741,0.807,111971,0.625,0,-6.67,146.031,0.871
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,83,0.111,0.902,173948,0.582,3.18E-06,-5.902,107.005,0.332
+Plan B,Megan Thee Stallion,81,"dance pop, houston rap, pop, trap queen",6602472,77,0.0668,0.787,163765,0.522,0,-5.872,170.439,0.666
+Honest (feat. Don Toliver),Justin Bieber,91,"canadian pop, pop",61196308,84,0.127,0.81,193322,0.655,8.16E-05,-6.779,150.002,0.809
+Fancy Like,Walker Hayes,67,"contemporary country, country, country road, modern country rock",468897,77,0.111,0.647,161853,0.765,0,-6.459,79.994,0.855
+Rocking A Cardigan in Atlanta,lil Shordie Scott,62,,23391,78,0.583,0.803,96826,0.64,0.000331,-4.721,140.073,0.816
+IDGAF (with blackbear),BoyWithUke,78,,1401969,81,0.426,0.783,140665,0.75,0,-5.762,97.953,0.88
+Rumors (feat. Lil Durk),Gucci Mane,77,"atl hip hop, dirty south rap, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",4337750,76,0.0499,0.688,185856,0.842,0,-4.211,159.897,0.416
+Whiskey On You,Nate Smith,64,contemporary country,96118,76,7.02E-05,0.479,183790,0.768,0.00549,-5.204,110.024,0.576
+True Love,Kanye West,90,"chicago rap, rap",17355037,78,0.0182,0.712,148571,0.861,6.09E-06,-5.487,84.042,0.388
+Out of Time,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,81,0.255,0.65,214194,0.76,0,-4.422,93.057,0.838
+Cigarettes,Juice WRLD,88,"chicago rap, melodic rap",24114636,77,0.0306,0.587,227527,0.614,0,-6.344,160.075,0.451
+Poppin,Yeat,80,"pluggnb, rap",777203,76,0.262,0.705,167187,0.613,6.97E-06,-7.441,74.521,0.259
+712PM,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,76,0.0355,0.711,173187,0.686,0,-6.409,146.971,0.536
+Fall In Love,Bailey Zimmerman,62,,81946,75,0.451,0.524,232059,0.643,0,-6.055,135.962,0.397
+PUFFIN ON ZOOTIEZ,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,76,0.0603,0.883,172933,0.657,0,-5.748,124.992,0.284
+Vegas (From the Original Motion Picture Soundtrack ELVIS),Doja Cat,88,"dance pop, pop",19072872,80,0.0777,0.801,182907,0.601,3.23E-05,-7.574,159.969,0.74
+Scrape It Off (feat. Lil Uzi Vert & Don Toliver),Pusha T,76,"hip hop, rap, southern hip hop, trap, underground hip hop, virginia hip hop",2455825,77,0.484,0.594,152613,0.679,7.83E-06,-3.702,106.726,0.66
+Wild as Her,Corey Kent,59,"contemporary country, country pop",19566,74,0.00331,0.497,201639,0.726,0,-6.018,147.91,0.418
+Hold That Heat (feat. Travis Scott),Southside,62,atl hip hop,57077,77,0.0295,0.744,221538,0.608,0,-6.386,130.045,0.0692
+Petty Too (feat. Future),Lil Durk,84,"chicago drill, chicago rap, drill, hip hop, rap, trap",4075650,75,0.0109,0.824,159927,0.577,0,-9.443,154.081,0.442
+She Had Me At Heads Carolina,Cole Swindell,67,"contemporary country, country, country road, modern country rock",1805267,74,0.124,0.607,206107,0.912,0,-3.449,134.944,0.722
+Sometimes,Juice WRLD,88,"chicago rap, melodic rap",24114636,76,0.0609,0.674,259672,0.58,0,-4.866,121.987,0.0759
+Una Noche en Medellín,Cris Mj,79,"mambo chileno, urbano chileno",365921,91,0.0924,0.87,153750,0.548,4.60E-05,-5.253,96.018,0.832
+That That (prod. & feat. SUGA of BTS),PSY,72,"k-pop, k-rap, korean old school hip hop",1374529,86,0.0299,0.905,174647,0.962,0,-3.197,129.969,0.906
+Surround Sound (feat. 21 Savage & Baby Tate),JID,79,"hip hop, rap, underground hip hop",875316,75,0.156,0.57,229938,0.573,0,-6.935,76.006,0.517
+"Shake It (feat. Cardi B, Dougie B & Bory300)",Kay Flock,66,"bronx drill, new york drill",211785,76,0.0353,0.87,118249,0.835,0,-5.875,140.051,0.901
+HANDSOMER (Remix) (Feat. Ktlyn),Russ,77,"hawaiian hip hop, rap",4420525,74,0.176,0.891,143415,0.62,1.59E-06,-6.822,82.035,0.535
+I'M DAT N****,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,74,0.0112,0.911,271840,0.573,5.83E-05,-5.573,144.026,0.145
+Nobody Like U,4*TOWN (From Disney and Pixar’s Turning Red),66,disney,230725,79,0.129,0.905,160947,0.631,0,-10.06,105.026,0.751
+LOVE YOU BETTER,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,75,0.478,0.709,129480,0.357,0.000294,-9.289,75.494,0.544
+Birthday Cake,Dylan Conrique,63,"alt z, social media pop",188136,80,0.955,0.436,205280,0.255,3.28E-05,-8.623,113.265,0.15
+KEEP IT BURNIN (feat. Kanye West),Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,74,0.00861,0.652,207213,0.578,0,-6.187,87.395,0.195
+I'd Do Anything To Make You Smile,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,75,0.012,0.832,193765,0.522,0.079,-7.244,150.044,0.253
+From Austin,Zach Bryan,79,oklahoma country,416727,72,0.633,0.5,207453,0.485,1.26E-06,-7.94,109.755,0.379
+Frozen,Lil Baby,88,"atl hip hop, atl trap, rap, trap",10549680,75,0.138,0.514,179149,0.65,0,-8.867,127.428,0.236
+LOVE DIVE,IVE,71,"k-pop, k-pop girl group",647253,85,0.00379,0.703,177187,0.709,5.43E-05,-4.169,117.941,0.538
+Memories,Conan Gray,79,"bedroom pop, pop",5632572,79,0.00979,0.34,248819,0.684,0,-6.306,112.969,0.556
+Skyline,Khalid,84,"pop, pop r&b",15270505,78,0.0179,0.733,182895,0.653,0.0218,-6.094,119.996,0.752
+The Foundations of Decay,My Chemical Romance,77,"emo, pop punk",6887614,77,0.000582,0.363,360760,0.67,0.548,-6.652,150.15,0.198
+Thinking 'Bout You (feat. MacKenzie Porter),Dustin Lynch,67,"contemporary country, country, country road, modern country rock",1815984,73,0.137,0.403,170560,0.711,0,-4.189,203.803,0.801
+With you,Jimin,70,,1211179,86,0.639,0.532,201905,0.426,0,-6.117,149.898,0.137
+chaotic,Tate McRae,80,pop,2795593,78,0.59,0.412,178721,0.382,0,-7.023,81.493,0.318
+"Come On, Let's Go (with Nigo)","Tyler, The Creator",84,"hip hop, rap",8832196,74,0.136,0.732,199500,0.734,0.000901,-7.968,145.722,0.488
+Cooped Up (with Roddy Ricch),Post Malone,87,"dfw rap, melodic rap, rap",36990052,69,0.0399,0.644,185857,0.775,0,-5.679,93.707,0.372
+Last Night Lonely,Jon Pardi,70,"contemporary country, country, country road, modern country rock",1407202,73,0.00496,0.646,181991,0.816,0,-2.65,102.972,0.865
+Is There Someone Else?,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,78,0.0388,0.702,199111,0.586,7.27E-05,-7.83,134.951,0.608
+Los Botones Azules,Junior H,78,"corridos tumbados, musica mexicana, nueva musica mexicana, sierreno",2814739,82,0.0877,0.784,135612,0.737,0,-2.174,97.5,0.623
+Love & War,Kodak Black,81,"florida rap, hip hop, melodic rap, miami hip hop, rap, trap",8156804,73,0.58,0.762,239146,0.649,1.70E-05,-5.624,145.09,0.501
+Sacrifice,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,82,0.0296,0.735,188918,0.795,3.18E-05,-6.523,122,0.905
+LONDON (feat. J. Cole),BIA,68,"pop, pop rap, r&b, rap latina, trap queen",330114,75,0.0225,0.644,250723,0.671,0,-5.156,132.001,0.563
+I Got A Shot,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,74,0.0784,0.973,138782,0.433,0,-6.605,120.055,0.933
+Lover,Taylor Swift,92,pop,53613642,3,0.492,0.359,221307,0.543,1.57E-05,-7.582,68.505,0.453
+Love Story (Taylor’s Version),Taylor Swift,92,pop,53613642,0,0.135,0.626,235767,0.79,3.97E-06,-4.302,119.082,0.416
+You Belong With Me (Taylor’s Version),Taylor Swift,92,pop,53613642,0,0.0623,0.632,231124,0.773,0,-4.856,130.033,0.474
+LIKE ME (feat. 42 Dugg & Lil Baby),Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,73,0.00119,0.741,132987,0.788,0,-6.403,160.03,0.307
+Lover,Taylor Swift,92,pop,53613642,4,0.492,0.359,221307,0.543,1.57E-05,-7.582,68.505,0.453
+Young Harleezy,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,74,0.00882,0.841,224842,0.566,0,-5.501,95.941,0.269
+Let's Get It (Remix) [feat. 21 Savage],Hunxho,57,,16717,73,0.0758,0.863,156996,0.499,0,-8.602,80.073,0.76
+Heavy Eyes,Zach Bryan,79,oklahoma country,416727,70,0.032,0.471,190780,0.912,0,-3.032,139.667,0.613
+Super Gremlin,Kodak Black,81,"florida rap, hip hop, melodic rap, miami hip hop, rap, trap",8156804,73,0.00265,0.825,200548,0.414,0,-6.634,72.993,0.106
+SI SUPIERAS,Eslabon Armado,78,"corrido, corridos tumbados, nueva musica mexicana, sierreno",2165506,76,0.208,0.642,227815,0.768,0,-3.674,97.485,0.546
+Already Dead,Juice WRLD,88,"chicago rap, melodic rap",24114636,75,0.0216,0.744,231221,0.495,0,-6.311,83.51,0.128
+That's Hilarious,Charlie Puth,80,"dance pop, pop, viral pop",16205866,80,0.742,0.714,146855,0.442,0,-5.909,108.039,0.546
+Scared Money (feat. J. Cole and Moneybagg Yo),YG,75,"cali rap, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",2849418,73,0.0101,0.898,204286,0.58,0,-7.632,84.018,0.661
+MASSAGING ME,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,72,0.000189,0.916,106133,0.453,0,-4.148,145.007,0.152
+Movie Star (feat. Pharrell Williams),Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,74,0.00461,0.829,142590,0.488,0,-7.275,93.199,0.551
+Lover,Taylor Swift,92,pop,53613642,1,0.492,0.359,221307,0.543,1.57E-05,-7.582,68.505,0.453
+D.M.B.,A$AP Rocky,81,"east coast hip hop, hip hop, rap, trap",11190337,75,0.542,0.727,291612,0.616,4.47E-06,-8.487,140.014,0.392
+City of Gods,Fivio Foreign,75,"brooklyn drill, hip hop, new york drill, rap, trap",941017,75,0.102,0.474,256000,0.801,0,-5.978,147.356,0.497
+Do We Have A Problem?,Nicki Minaj,85,"dance pop, hip pop, pop, pop rap, queens hip hop",25136498,74,0.472,0.842,207065,0.505,0.000322,-8.627,119.993,0.538
+Don't Play That,King Von,75,"chicago rap, trap",1999563,72,0.0748,0.947,133613,0.605,7.54E-06,-8.621,129.988,0.656
+Rackz got më (feat. Gunna),Yeat,80,"pluggnb, rap",777203,73,0.00439,0.788,181440,0.603,0.000232,-6.959,142.943,0.216
+Goin Up,Lil Tjay,81,"brooklyn drill, melodic rap, nyc rap",5120917,74,0.0642,0.732,140601,0.672,0,-8.462,137.03,0.16
+maybe (feat. Bring Me The Horizon),Machine Gun Kelly,81,ohio hip hop,4604714,76,0.000735,0.601,170134,0.92,0,-4.802,88.014,0.537
+AHHH HA,Lil Durk,84,"chicago drill, chicago rap, drill, hip hop, rap, trap",4075650,72,0.000114,0.676,186538,0.61,1.73E-06,-9.185,156.005,0.519
+Side Piece,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,74,0.494,0.667,234118,0.526,0.000267,-8.561,101.954,0.503
+Andamos Mejor,Los Gemelos De Sinaloa,68,"corrido, corridos tumbados, musica mexicana, nueva musica mexicana, sierreno",111994,77,0.28,0.855,137184,0.59,0.0982,-8.55,110.016,0.283
+Like A Blade Of Grass,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,74,0.037,0.891,126218,0.489,2.12E-05,-8.14,93.515,0.794
+what would you do?,Tate McRae,80,pop,2795593,77,0.296,0.8,166948,0.627,0,-5.892,104.96,0.693
+Out of Time,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,1,0.244,0.629,214191,0.763,0,-4.279,93.023,0.809
+Out of Time,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,3,0.244,0.629,214191,0.763,0,-4.279,93.023,0.809
+Out of Time,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,3,0.244,0.629,214191,0.763,0,-4.279,93.023,0.809
+2step (feat. Lil Baby),Ed Sheeran,91,"pop, uk pop",97725925,81,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+Out of Time,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,0,0.244,0.629,214191,0.763,0,-4.279,93.023,0.809
+Good Boy Gone Bad,TOMORROW X TOGETHER,78,"k-pop, k-pop boy group",6330236,81,0.0159,0.475,191038,0.695,0,-5.919,100.009,0.552
+I’m Tired (with Zendaya) - Bonus Track,Labrinth,80,"indie poptimism, pop",2362120,77,0.651,0.375,187944,0.133,0,-10.624,131.721,0.192
+MANIAC,Stray Kids,79,"k-pop, k-pop boy group",8114370,81,0.154,0.581,182758,0.8,0,-2.613,119.872,0.709
+Poison (feat. Lil Wayne),Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,73,0.179,0.549,222643,0.485,0,-8.477,112.029,0.626
+FOR A NUT (feat. Gunna & Young Thug),Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,72,0.00321,0.824,207933,0.667,2.65E-06,-6.603,82.037,0.305
+Chale,Eden Muñoz,70,"musica mexicana, nueva musica mexicana",101323,84,0.395,0.551,170745,0.436,0,-8.029,188.651,0.862
+Nail Tech,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,74,0.00508,0.677,206385,0.557,8.36E-06,-8.409,150.127,0.1
+Hayloft II,Mother Mother,73,vancouver indie,2796495,77,0.0044,0.326,215040,0.866,7.37E-06,-4.541,178.181,0.172
+Fuera del mercado,Danny Ocean,79,"latin, pop venezolano, reggaeton, trap latino",4028453,89,0.32,0.453,159849,0.673,0,-5.649,92.06,0.266
+"Jimmy, Brian and Mike",Eminem,89,"detroit hip hop, hip hop, rap",55970025,66,0.0798,0.9,201564,0.747,0,-4.853,105.987,0.536
+Stimulate,Eminem,89,"detroit hip hop, hip hop, rap",55970025,57,0.000128,0.741,303773,0.651,0.000341,-6.483,88.998,0.118
+The Conspiracy Freestyle,Eminem,89,"detroit hip hop, hip hop, rap",55970025,56,0.109,0.906,170688,0.384,0.0012,-8.391,93.926,0.824
+Bump Heads,Eminem,89,"detroit hip hop, hip hop, rap",55970025,56,0.000582,0.858,281457,0.692,2.98E-06,-6.119,93.465,0.222
+Certified (feat. Gunna),Pooh Shiesty,72,"memphis hip hop, rap, southern hip hop, tennessee hip hop, trap",868834,72,0.139,0.664,149611,0.559,0,-7.568,153.95,0.548
+See Me Now,YoungBoy Never Broke Again,83,"baton rouge rap, trap",8890086,41,0.0424,0.714,158134,0.678,0,-7.625,84.953,0.497
+"Freestyle #1 - Live From Tramps, New York / 1999",Eminem,89,"detroit hip hop, hip hop, rap",55970025,52,0.83,0.439,77721,0.625,0,-8.324,128.503,0.711
+White America,Eminem,89,"detroit hip hop, hip hop, rap",55970025,54,0.0102,0.564,324547,0.615,0,-5.64,76.672,0.16
+"Freestyle #2 - Live From Tramps, New York / 1999",Eminem,89,"detroit hip hop, hip hop, rap",55970025,48,0.882,0.478,52503,0.738,0,-7.672,136.933,0.698
+Business,Eminem,89,"detroit hip hop, hip hop, rap",55970025,53,0.0318,0.901,251720,0.814,1.12E-05,-4.509,96.44,0.496
+Cleanin' Out My Closet,Eminem,89,"detroit hip hop, hip hop, rap",55970025,53,0.0692,0.908,297840,0.758,0,-4.753,148.015,0.871
+"Brain Damage - Live From Tramps, New York / 1999",Eminem,89,"detroit hip hop, hip hop, rap",55970025,48,0.669,0.492,84562,0.959,0,-4.585,95.058,0.556
+Square Dance,Eminem,89,"detroit hip hop, hip hop, rap",55970025,52,0.0307,0.717,323720,0.675,0,-1.797,82.157,0.718
+"The Way I Am - Live From Fuji Rock Festival, Japan / 2001",Eminem,89,"detroit hip hop, hip hop, rap",55970025,48,0.0146,0.448,223292,0.834,0,-6.337,87.553,0.256
+Soldier,Eminem,89,"detroit hip hop, hip hop, rap",55970025,51,0.0317,0.851,226213,0.92,0.000575,-2.989,94.514,0.547
+"Just Don't Give A Fuck - Live From Tramps, New York / 1999",Eminem,89,"detroit hip hop, hip hop, rap",55970025,47,0.852,0.432,195809,0.868,0,-5.59,84.832,0.799
+Without Me,Eminem,89,"detroit hip hop, hip hop, rap",55970025,51,0.00286,0.908,290320,0.669,0,-2.827,112.238,0.661
+Say Goodbye Hollywood,Eminem,89,"detroit hip hop, hip hop, rap",55970025,50,0.0529,0.716,272840,0.664,0,-5.022,94.332,0.718
+"The Real Slim Shady - Live From Fuji Rock Festival, Japan / 2001",Eminem,89,"detroit hip hop, hip hop, rap",55970025,47,0.142,0.547,285368,0.924,0,-6.722,104.504,0.471
+Sing For The Moment,Eminem,89,"detroit hip hop, hip hop, rap",55970025,50,0.00171,0.668,339547,0.824,3.05E-06,-4.164,163.961,0.186
+Drips,Eminem,89,"detroit hip hop, hip hop, rap",55970025,49,0.0345,0.813,285640,0.687,0,-4.85,83.947,0.668
+Superman,Eminem,89,"detroit hip hop, hip hop, rap",55970025,50,0.0215,0.801,350320,0.755,0,-3.138,130.026,0.579
+The Kiss - Skit,Eminem,89,"detroit hip hop, hip hop, rap",55970025,49,0.196,0.524,75920,0.449,1.21E-06,-13.803,89.563,0.547
+'Till I Collapse,Eminem,89,"detroit hip hop, hip hop, rap",55970025,49,0.0622,0.548,297787,0.847,0,-3.237,171.449,0.1
+Hailie's Song,Eminem,89,"detroit hip hop, hip hop, rap",55970025,49,0.0168,0.788,320640,0.731,8.70E-05,-3.295,80.981,0.51
+When The Music Stops,Eminem,89,"detroit hip hop, hip hop, rap",55970025,48,0.0457,0.715,269013,0.553,0,-3.578,92.998,0.0926
+My Dad's Gone Crazy,Eminem,89,"detroit hip hop, hip hop, rap",55970025,48,0.0986,0.73,267013,0.698,0,-5.089,176.146,0.711
+Say What You Say,Eminem,89,"detroit hip hop, hip hop, rap",55970025,48,0.179,0.89,309893,0.541,0,-3.672,113.41,0.428
+Business - Instrumental,Eminem,89,"detroit hip hop, hip hop, rap",55970025,44,0.0085,0.919,251808,0.574,0.901,-8.245,96.01,0.549
+Steve Berman - Skit,Eminem,89,"detroit hip hop, hip hop, rap",55970025,45,0.133,0.682,33107,0.0987,0,-22.723,100.247,0.396
+Curtains Close,Eminem,89,"detroit hip hop, hip hop, rap",55970025,45,0.518,0.572,61867,0.412,0.00026,-20.224,99.261,0.684
+Cleanin' Out My Closet - Instrumental,Eminem,89,"detroit hip hop, hip hop, rap",55970025,42,0.00634,0.808,342253,0.684,0.915,-6.454,147.989,0.962
+Without Me - Instrumental,Eminem,89,"detroit hip hop, hip hop, rap",55970025,43,4.84E-05,0.803,288241,0.439,0.883,-4.767,112.267,0.983
+'Till I Collapse - Instrumental,Eminem,89,"detroit hip hop, hip hop, rap",55970025,42,0.00283,0.586,345102,0.558,0.749,-5.064,171.472,0.0447
+Square Dance - Instrumental,Eminem,89,"detroit hip hop, hip hop, rap",55970025,41,0.000435,0.759,377697,0.498,0.784,-2.999,82.045,0.777
+Superman - Instrumental,Eminem,89,"detroit hip hop, hip hop, rap",55970025,41,0.000204,0.745,422379,0.692,0.842,-3.831,129.978,0.904
+Sing For The Moment - Instrumental,Eminem,89,"detroit hip hop, hip hop, rap",55970025,40,2.30E-05,0.774,383854,0.663,0.816,-4.704,164.039,0.769
+Say What You Say - Instrumental,Eminem,89,"detroit hip hop, hip hop, rap",55970025,37,0.00303,0.904,306291,0.12,0.84,-8.321,113.635,0.0707
+Curtains Up - Skit,Eminem,89,"detroit hip hop, hip hop, rap",55970025,24,0.00697,0.378,29827,0.122,0.958,-19.785,81.519,0.0313
+Paul Rosenberg - Skit,Eminem,89,"detroit hip hop, hip hop, rap",55970025,8,0.986,0.826,22747,0.266,0,-17.222,104.801,0.964
+Thump Shit,42 Dugg,74,"detroit trap, rap, southern hip hop, trap",646327,71,0.00227,0.718,226362,0.607,1.32E-06,-7.307,144.93,0.499
+Mine Again,Zach Bryan,79,oklahoma country,416727,67,0.0441,0.494,224188,0.653,1.42E-05,-6.493,153.97,0.336
+Elon Musk (feat. Gunna),DDG,65,"rap, trap",718973,73,0.441,0.826,205759,0.583,0,-5.186,140.039,0.539
+Hate Our Love (with Big Sean),Queen Naija,65,"pop, pop r&b, pop rap, r&b, urban contemporary",2316356,71,0.462,0.662,226374,0.655,0,-5.44,82.079,0.356
+Something in the Orange - Z&E's Version,Zach Bryan,79,oklahoma country,416727,67,0.416,0.594,254258,0.382,0,-5.432,110.237,0.223
+Dear Alcohol,Dax,65,"canadian hip hop, ottawa rap, pop rap",710904,72,0.262,0.815,236308,0.504,0,-9.617,129.984,0.401
+Hold On,Justin Bieber,91,"canadian pop, pop",61196308,2,0.0106,0.658,170813,0.634,0,-5.797,139.98,0.29
+Hold On,Justin Bieber,91,"canadian pop, pop",61196308,1,0.0106,0.658,170813,0.634,0,-5.797,139.98,0.29
+Ghost,Justin Bieber,91,"canadian pop, pop",61196308,0,0.178,0.604,153190,0.741,3.49E-05,-5.571,153.947,0.473
+Hold On,Justin Bieber,91,"canadian pop, pop",61196308,1,0.0106,0.658,170813,0.634,0,-5.797,139.98,0.29
+Honest,Justin Bieber,91,"canadian pop, pop",61196308,0,0.127,0.81,193322,0.655,8.16E-05,-6.779,150.002,0.809
+Love Yourself,Justin Bieber,91,"canadian pop, pop",61196308,0,0.86,0.759,232627,0.401,0,-8.999,100.126,0.576
+Hold On,Justin Bieber,91,"canadian pop, pop",61196308,0,0.0106,0.658,170813,0.634,0,-5.797,139.98,0.29
+Anyone,Justin Bieber,91,"canadian pop, pop",61196308,0,0.181,0.686,190779,0.538,3.13E-06,-8.026,115.884,0.584
+Eazy,The Game,72,"gangster rap, hip hop, pop rap, rap, southern hip hop, trap",3985444,74,0.167,0.716,234288,0.551,0,-6.987,82.393,0.305
+Burn,Juice WRLD,88,"chicago rap, melodic rap",24114636,73,0.149,0.354,217222,0.475,0.034,-9.333,114.975,0.0393
+Happy Instead,Zach Bryan,79,oklahoma country,416727,67,0.582,0.499,249159,0.575,0,-3.977,91.317,0.404
+I Be,Key Glock,74,"memphis hip hop, rap, southern hip hop, tennessee hip hop, trap",1216074,71,0.00813,0.905,193480,0.724,0,-6.255,136.982,0.361
+Ghost,Justin Bieber,91,"canadian pop, pop",61196308,3,0.178,0.604,153190,0.741,3.49E-05,-5.571,153.947,0.473
+Hold On,Justin Bieber,91,"canadian pop, pop",61196308,2,0.0106,0.658,170813,0.634,0,-5.797,139.98,0.29
+Loved By You,Justin Bieber,91,"canadian pop, pop",61196308,3,0.0696,0.79,159250,0.724,2.33E-06,-6.972,101.04,0.642
+Baby,Justin Bieber,91,"canadian pop, pop",61196308,0,0.0457,0.731,216613,0.842,0,-5.358,65.027,0.473
+Baby,Justin Bieber,91,"canadian pop, pop",61196308,2,0.0457,0.731,216613,0.842,0,-5.358,65.027,0.473
+Baby,Justin Bieber,91,"canadian pop, pop",61196308,3,0.0457,0.731,216613,0.842,0,-5.358,65.027,0.473
+Baby,Justin Bieber,91,"canadian pop, pop",61196308,3,0.0457,0.731,216613,0.842,0,-5.358,65.027,0.473
+Ghost,Justin Bieber,91,"canadian pop, pop",61196308,1,0.178,0.604,153190,0.741,3.49E-05,-5.571,153.947,0.473
+Sorry,Justin Bieber,91,"canadian pop, pop",61196308,2,0.0878,0.679,200787,0.748,0,-3.624,100.035,0.438
+Sorry,Justin Bieber,91,"canadian pop, pop",61196308,1,0.0878,0.679,200787,0.748,0,-3.624,100.035,0.438
+What Do You Mean?,Justin Bieber,91,"canadian pop, pop",61196308,6,0.585,0.832,208543,0.631,0.000892,-6.19,125.038,0.836
+this is what heartbreak feels like,JVKE,70,modern indie pop,248777,74,0.581,0.707,157636,0.478,0,-4.602,109.986,0.571
+Ghost,Justin Bieber,91,"canadian pop, pop",61196308,5,0.178,0.604,153190,0.741,3.49E-05,-5.571,153.947,0.473
+Friends,Justin Bieber,91,"canadian pop, pop",61196308,4,0.00389,0.743,189467,0.735,0,-5.337,104.979,0.631
+Ghost,Justin Bieber,91,"canadian pop, pop",61196308,0,0.178,0.604,153190,0.741,3.49E-05,-5.571,153.947,0.473
+emo girl (feat. WILLOW),Machine Gun Kelly,81,ohio hip hop,4604714,75,0.00039,0.412,159096,0.881,5.82E-05,-3.502,165.012,0.359
+2step,Ed Sheeran,91,"pop, uk pop",97725925,0,0.169,0.763,153627,0.661,0,-5.592,95.002,0.632
+The Joker and the Queen,Ed Sheeran,91,"pop, uk pop",97725925,0,0.952,0.567,185587,0.211,5.24E-05,-9.975,134.019,0.289
+Dive,Ed Sheeran,91,"pop, uk pop",97725925,2,0.355,0.771,238440,0.386,0,-6.161,134.943,0.533
+Happier - Tiësto’s AFTR:HRS Remix,Ed Sheeran,91,"pop, uk pop",97725925,1,0.00569,0.684,216000,0.823,7.27E-06,-4.881,117.994,0.384
+Overpass Graffiti,Ed Sheeran,91,"pop, uk pop",97725925,0,0.00253,0.52,236907,0.849,0,-3.794,175.908,0.774
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,3,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+Overpass Graffiti,Ed Sheeran,91,"pop, uk pop",97725925,0,0.00253,0.52,236907,0.849,0,-3.794,175.908,0.774
+The Joker and the Queen,Ed Sheeran,91,"pop, uk pop",97725925,0,0.952,0.567,185587,0.211,5.24E-05,-9.975,134.019,0.289
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,2,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+2step,Ed Sheeran,91,"pop, uk pop",97725925,2,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+Perfect,Ed Sheeran,91,"pop, uk pop",97725925,4,0.162,0.598,263400,0.448,0,-6.312,95.009,0.168
+Perfect,Ed Sheeran,91,"pop, uk pop",97725925,1,0.162,0.598,263400,0.448,0,-6.312,95.009,0.168
+Photograph,Ed Sheeran,91,"pop, uk pop",97725925,2,0.607,0.718,258987,0.379,0.000472,-10.48,108.033,0.22
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,0,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,0,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+Bad Habits,Ed Sheeran,91,"pop, uk pop",97725925,2,0.0451,0.807,230747,0.893,2.79E-05,-3.745,126.011,0.537
+Bad Habits,Ed Sheeran,91,"pop, uk pop",97725925,1,0.0451,0.807,230747,0.893,2.79E-05,-3.745,126.011,0.537
+Bad Habits,Ed Sheeran,91,"pop, uk pop",97725925,0,0.0451,0.807,230747,0.893,2.79E-05,-3.745,126.011,0.537
+2step,Ed Sheeran,91,"pop, uk pop",97725925,2,0.169,0.763,153627,0.661,0,-5.592,95.002,0.632
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,2,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+Overpass Graffiti,Ed Sheeran,91,"pop, uk pop",97725925,0,0.00253,0.52,236907,0.849,0,-3.794,175.908,0.774
+Don't - Don Diablo Remix,Ed Sheeran,91,"pop, uk pop",97725925,2,0.0112,0.681,249835,0.949,0.107,-2.608,125.971,0.36
+2step,Ed Sheeran,91,"pop, uk pop",97725925,2,0.169,0.763,153627,0.661,0,-5.592,95.002,0.632
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,1,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,3,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+Overpass Graffiti,Ed Sheeran,91,"pop, uk pop",97725925,1,0.00253,0.52,236907,0.849,0,-3.794,175.908,0.774
+Visiting Hours,Ed Sheeran,91,"pop, uk pop",97725925,1,0.77,0.471,215507,0.396,0,-6.654,149.609,0.263
+Fire Alarms,Ed Sheeran,91,"pop, uk pop",97725925,1,0.772,0.585,144013,0.286,0,-9.886,102.201,0.377
+Visiting Hours,Ed Sheeran,91,"pop, uk pop",97725925,0,0.77,0.471,215507,0.396,0,-6.654,149.609,0.263
+Bad Habits,Ed Sheeran,91,"pop, uk pop",97725925,0,0.0451,0.807,230747,0.893,2.79E-05,-3.745,126.011,0.537
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,0,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+I Don't Care,Ed Sheeran,91,"pop, uk pop",97725925,5,0.0902,0.798,219947,0.676,0,-5.041,101.956,0.843
+The Joker and the Queen,Ed Sheeran,91,"pop, uk pop",97725925,1,0.952,0.567,185587,0.211,5.24E-05,-9.975,134.019,0.289
+sun and moon,anees,65,,236789,81,0.457,0.815,151508,0.442,0,-7.462,90.019,0.706
+HEARTFIRST,Kelsea Ballerini,68,"contemporary country, country, pop",919718,71,0.021,0.662,187017,0.855,0,-3.742,120.079,0.84
+No Le Aflojo,Los Gemelos De Sinaloa,68,"corrido, corridos tumbados, musica mexicana, nueva musica mexicana, sierreno",111994,74,0.195,0.698,202876,0.687,0,-4.115,116.765,0.773
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,1,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+Happier - Tiësto’s AFTR:HRS Remix,Ed Sheeran,91,"pop, uk pop",97725925,1,0.00569,0.684,216000,0.823,7.27E-06,-4.881,117.994,0.384
+Overpass Graffiti,Ed Sheeran,91,"pop, uk pop",97725925,1,0.00253,0.52,236907,0.849,0,-3.794,175.908,0.774
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,0,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+Shivers,Ed Sheeran,91,"pop, uk pop",97725925,2,0.281,0.788,207853,0.859,0,-2.724,141.02,0.822
+Bad Habits,Ed Sheeran,91,"pop, uk pop",97725925,1,0.0451,0.807,230747,0.893,2.79E-05,-3.745,126.011,0.537
+2step,Ed Sheeran,91,"pop, uk pop",97725925,3,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+2step,Ed Sheeran,91,"pop, uk pop",97725925,2,0.169,0.763,153627,0.661,0,-5.592,95.002,0.632
+Hold On,Justin Bieber,91,"canadian pop, pop",61196308,0,0.0106,0.658,170813,0.634,0,-5.797,139.98,0.29
+Late July,Zach Bryan,79,oklahoma country,416727,66,0.736,0.532,178020,0.354,0,-8.938,151.266,0.419
+Cold Damn Vampires,Zach Bryan,79,oklahoma country,416727,66,0.732,0.423,292027,0.415,1.14E-06,-7.104,143.206,0.175
+CHICKENS (feat. EST Gee),Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,71,0.0403,0.862,195267,0.619,0,-6.197,148.059,0.624
+RAVE,Dxrk ダーク,67,,53038,81,0.235,0.716,169245,0.748,0.849,-6.06,119.918,0.338
+GOLD STACKS,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,71,0.00937,0.763,162333,0.526,2.25E-06,-6.753,181.856,0.362
+Te Felicito,Shakira,82,"colombian pop, dance pop, latin, latin pop, pop",23655868,86,0.234,0.695,172235,0.636,0,-4.654,174.14,0.575
+Right Now the Best,Zach Bryan,79,oklahoma country,416727,65,0.668,0.494,190033,0.584,0,-2.478,114.091,0.136
+Talk Of The Town,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,72,0.395,0.577,82927,0.448,0,-9.215,137.694,0.543
+The Outskirts,Zach Bryan,79,oklahoma country,416727,65,0.737,0.473,198121,0.536,0,-4.139,140.805,0.508
+Tishomingo,Zach Bryan,79,oklahoma country,416727,65,0.309,0.56,188883,0.576,2.08E-05,-6.92,133.491,0.478
+Dancing Feet (feat. DNCE),Kygo,79,"edm, pop, pop dance, tropical house",8037262,80,0.293,0.75,215203,0.797,0,-4.826,105.949,0.523
+Younger Years,Zach Bryan,79,oklahoma country,416727,65,0.291,0.357,205224,0.741,0.00011,-4.522,169.541,0.626
+POLTERGEIST!,CORPSE,69,"dream smp, viral rap",2165903,73,0.00192,0.766,101053,0.658,0,-7.014,133.085,0.476
+Blick Blick (with Nicki Minaj),Coi Leray,66,"new jersey underground rap, pop rap, r&b, trap queen",343631,72,0.222,0.916,178413,0.824,0.00108,-4.444,139.926,0.87
+She's Alright,Zach Bryan,79,oklahoma country,416727,65,0.665,0.406,229062,0.439,2.46E-06,-8.129,148.181,0.19
+ay! (feat. Lil Wayne),Machine Gun Kelly,81,ohio hip hop,4604714,73,0.05,0.742,124188,0.617,5.92E-05,-6.689,147.002,0.491
+On tha linë,Yeat,80,"pluggnb, rap",777203,71,0.00482,0.771,154787,0.594,6.88E-06,-8.991,149.106,0.119
+DOS MORRITAS,Eslabon Armado,78,"corrido, corridos tumbados, nueva musica mexicana, sierreno",2165506,74,0.163,0.676,238561,0.779,0,-3.501,100.083,0.476
+Like I Love Country Music,Kane Brown,74,"black americana, contemporary country, country road",4108545,71,0.000682,0.542,234341,0.82,0.000136,-6.073,124.85,0.702
+Stick (with JID & J. Cole feat. Kenny Mason & Sheck Wes),Dreamville,69,"hip hop, rap, underground hip hop",434134,71,0.266,0.671,309323,0.857,0,-5.435,118.574,0.597
+Broadway Girls (feat. Morgan Wallen),Lil Durk,84,"chicago drill, chicago rap, drill, hip hop, rap, trap",4075650,69,0.0417,0.659,185600,0.745,0,-3.599,74.967,0.54
+Moth To A Flame (with The Weeknd),Swedish House Mafia,75,"edm, pop, pop dance, progressive electro house",3563935,82,0.0027,0.553,234000,0.659,0,-7.295,120.146,0.105
+Lil Secret,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,72,0.144,0.779,129565,0.653,0,-5.977,69.056,0.841
+Sun to Me,Zach Bryan,79,oklahoma country,416727,65,0.593,0.505,163032,0.27,0,-9.165,98.721,0.557
+Maybe You’re The Problem,Ava Max,81,"dance pop, pop",5283938,79,0.0453,0.53,190319,0.835,0,-3.69,166.02,0.471
+Serial Killers,Gucci Mane,77,"atl hip hop, dirty south rap, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",4337750,71,0.0319,0.752,188967,0.617,0,-5.68,144.006,0.137
+HOTEL LOBBY (Unc & Phew),Quavo,78,"atl hip hop, hip hop, melodic rap, pop rap, rap, southern hip hop, trap",5707058,75,0.142,0.821,142657,0.636,0,-4.479,127.961,0.163
+Poems and Closing Time,Zach Bryan,79,oklahoma country,416727,64,0.233,0.65,161201,0.585,0,-6.225,127.84,0.58
+Darling,Zach Bryan,79,oklahoma country,416727,64,0.454,0.405,237819,0.283,0,-7.218,172.746,0.27
+Can't Have Mine (Find You A Girl),Dylan Scott,63,"contemporary country, country, country road",1164471,70,0.791,0.663,183087,0.502,0,-7.07,143.969,0.371
+Bussin,Nicki Minaj,85,"dance pop, hip pop, pop, pop rap, queens hip hop",25136498,72,0.0576,0.893,136761,0.699,3.02E-06,-8.059,139.972,0.747
+Mr. Forgettable,David Kushner,63,gen z singer-songwriter,303786,76,0.544,0.56,187293,0.41,0,-9.227,144.727,0.28
+MEAN!,Madeline The Person,62,gen z singer-songwriter,31129,78,0.918,0.56,143957,0.436,0,-8.761,117.907,0.402
+Stay Alive (Prod. SUGA of BTS),Jung Kook,64,,2356822,81,0.299,0.512,210928,0.76,0,-5.889,130.096,0.495
+You Are My Sunshine,Zach Bryan,79,oklahoma country,416727,63,0.711,0.544,177867,0.328,3.40E-05,-12.303,97.372,0.539
+If She Wants a Cowboy,Zach Bryan,79,oklahoma country,416727,64,0.0201,0.553,192293,0.823,0,-3.194,133.781,0.552
+Parent Trap (feat. Justin Timberlake),Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,72,0.283,0.878,189876,0.523,0.000155,-7.653,92.05,0.422
+Ninth Cloud,Zach Bryan,79,oklahoma country,416727,63,0.0816,0.53,203845,0.752,0,-4.163,110.407,0.47
+Circles Around This Town,Maren Morris,73,"contemporary country, country, texas country",659267,70,0.015,0.591,195760,0.814,0,-4.986,149.9,0.815
+Oklahoma City,Zach Bryan,79,oklahoma country,416727,63,0.398,0.578,240536,0.448,0,-6.265,120.67,0.352
+VETE A LA FREGADA,Eslabon Armado,78,"corrido, corridos tumbados, nueva musica mexicana, sierreno",2165506,71,0.0755,0.353,166246,0.701,0,-5.169,89.739,0.464
+Pantysito,Alejo,70,reggaeton,18961,86,0.136,0.83,240413,0.739,2.11E-06,-5.395,97.993,0.631
+Hold My Hand,Lady Gaga,83,"art pop, dance pop, pop",22218895,80,0.0387,0.519,225300,0.617,0,-4.287,147.708,0.222
+Dreamin Of The Past (feat. Kanye West),Pusha T,76,"hip hop, rap, southern hip hop, trap, underground hip hop, virginia hip hop",2455825,72,0.655,0.594,173633,0.913,0,-2.372,80.302,0.897
+Whiskey Fever,Zach Bryan,79,oklahoma country,416727,63,0.369,0.501,212711,0.811,0,-4.313,83.695,0.719
+Blue,Zach Bryan,79,oklahoma country,416727,63,0.408,0.597,218680,0.469,0.000277,-6.838,139.422,0.409
+The Good I'll Do,Zach Bryan,79,oklahoma country,416727,64,0.82,0.434,211316,0.215,0,-8.478,118.152,0.187
+ZOOM,Jessi,70,k-pop,1306222,84,0.00942,0.874,174840,0.6,0,-6.064,100.012,0.457
+Highway Boys,Zach Bryan,79,oklahoma country,416727,64,0.125,0.484,220035,0.362,1.39E-05,-8.989,153.911,0.299
+'68 Fastback,Zach Bryan,79,oklahoma country,416727,63,0.749,0.366,193127,0.276,2.91E-06,-7.201,162.051,0.298
+Sober Side of Sorry,Zach Bryan,79,oklahoma country,416727,63,0.00345,0.634,213016,0.646,5.75E-06,-4.782,117.386,0.652
+From Austin,Zach Bryan,79,oklahoma country,416727,64,0.633,0.5,207453,0.485,1.26E-06,-7.94,109.755,0.379
+Billy Stay,Zach Bryan,79,oklahoma country,416727,62,0.523,0.556,316507,0.435,1.19E-06,-5.148,91.939,0.341
+Lie Again,Giveon,78,"pop, r&b",2137569,73,0.434,0.431,187027,0.349,7.02E-05,-9.426,62.627,0.165
+The Rumbling,SiM,62,"japanese metalcore, japanese screamo",240959,75,5.62E-05,0.459,220799,0.878,0.000307,-1.399,144.852,0.494
+Someday (Maggie's),Zach Bryan,79,oklahoma country,416727,62,0.708,0.4,265579,0.363,0,-7.049,109.065,0.138
+Big Energy (feat. DJ Khaled) - Remix,Latto,72,"pop, r&b, trap queen",795715,73,0.0385,0.867,181666,0.771,0,-3.688,106.021,0.715
+Ya acabó - Con Becky G,Marca MP,73,"corridos tumbados, nueva musica mexicana, sierreno",1172405,76,0.762,0.612,176459,0.44,2.56E-06,-5.894,133.872,0.683
+Tomorrow Me,Luke Combs,79,"contemporary country, country",6652623,70,0.144,0.54,208733,0.694,0,-4.477,146.148,0.444
+Less Than Zero,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,75,0.00096,0.535,211814,0.791,0.000155,-5.55,142.981,0.5
+Corinthians (Proctor's),Zach Bryan,79,oklahoma country,416727,62,0.47,0.58,231187,0.45,0,-5.475,94.483,0.373
+HOLY GHOST,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,69,0.0215,0.784,170267,0.719,2.27E-05,-4.56,157.997,0.293
+No Cure,Zach Bryan,79,oklahoma country,416727,62,0.0393,0.524,161769,0.736,1.81E-06,-3.683,122.215,0.375
+Thought You Should Know,Morgan Wallen,84,contemporary country,3415943,68,0.489,0.537,215572,0.682,7.91E-06,-6.169,139.942,0.519
+Half Grown,Zach Bryan,79,oklahoma country,416727,62,0.754,0.527,207187,0.114,2.18E-06,-12.912,74.004,0.154
+Rocky Road (with Kodak Black),Moneybagg Yo,77,"hip hop, memphis hip hop, rap, southern hip hop, tennessee hip hop, trap",2895289,68,0.00958,0.702,178948,0.639,0,-7.301,172.919,0.55
+High Beams,Zach Bryan,79,oklahoma country,416727,61,0.0216,0.529,200935,0.663,1.05E-05,-4.761,150.857,0.593
+Cold December,Rod Wave,75,florida rap,3240759,68,0.0589,0.646,192022,0.533,1.75E-06,-10.461,169.913,0.249
+TOMBOY,(G)I-DLE,72,"k-pop, k-pop girl group",3541808,80,0.00988,0.755,174387,0.87,0,-2.414,124.032,0.645
+psychofreak (feat. WILLOW),Camila Cabello,83,"dance pop, pop, post-teen pop",26802962,77,0.342,0.629,201495,0.64,1.17E-05,-7.638,179.989,0.448
+I Love U,The Chainsmokers,81,"dance pop, edm, electropop, pop, pop dance, tropical house",19126536,75,0.143,0.651,185523,0.719,3.62E-05,-5.804,103.981,0.81
+Morning Time,Zach Bryan,79,oklahoma country,416727,61,0.693,0.567,225969,0.293,0,-8.054,79.978,0.195
+Open the Gate,Zach Bryan,79,oklahoma country,416727,62,0.00779,0.427,234772,0.606,3.80E-05,-5.014,148.977,0.531
+Highway Boys,Zach Bryan,79,oklahoma country,416727,68,0.125,0.484,220035,0.362,1.39E-05,-8.989,153.911,0.299
+2step (feat. Leto),Ed Sheeran,91,"pop, uk pop",97725925,64,0.273,0.73,154453,0.701,0,-5.318,94.97,0.522
+Good Beer,Seaforth,57,"contemporary country, country pop",25696,70,0.302,0.702,174111,0.778,0,-4.25,91.014,0.879
+This Road I Know,Zach Bryan,79,oklahoma country,416727,61,0.807,0.397,204492,0.279,0.0113,-16.974,87.955,0.397
+Dub,Yeat,80,"pluggnb, rap",777203,69,0.00391,0.727,153600,0.532,0,-7.353,75.508,0.276
+FEARLESS,LE SSERAFIM,68,k-pop,234821,83,0.0508,0.863,168437,0.62,0.00324,-7.167,103.971,0.432
+Leave You Alone,Kane Brown,74,"black americana, contemporary country, country road",4108545,68,0.119,0.447,214239,0.538,0,-7.258,123.746,0.453
+Changed On Me (feat. Vory & Polo G),Fivio Foreign,75,"brooklyn drill, hip hop, new york drill, rap, trap",941017,71,0.0277,0.6,241644,0.617,0,-6.794,145.805,0.168
+Perro Abandonado,Ivan Cornejo,66,"corridos tumbados, nueva musica mexicana",273657,69,0.492,0.561,211199,0.635,1.27E-06,-8.668,147.094,0.4
+Ya No Somos Ni Seremos,Christian Nodal,81,"mariachi, musica mexicana, nueva musica mexicana, ranchera",11082505,83,0.437,0.588,185723,0.452,0,-4.75,139.953,0.734
+Light Switch,Charlie Puth,80,"dance pop, pop, viral pop",16205866,79,0.105,0.69,185681,0.626,0.000335,-5.693,184.009,0.912
+JGL,La Adictiva Banda San José de Mesillas,71,"banda, musica mexicana, nueva musica mexicana, ranchera",4003678,80,0.55,0.702,158093,0.586,0,-5.317,112.852,0.965
+MODO DEPRE :(,Eslabon Armado,78,"corrido, corridos tumbados, nueva musica mexicana, sierreno",2165506,70,0.262,0.502,199738,0.637,0,-6.029,180.149,0.328
+Love Me More,Sam Smith,81,"dance pop, pop, uk pop",19549194,79,0.302,0.791,190659,0.439,1.85E-05,-5.62,85.004,0.559
+Ghost Story,Carrie Underwood,71,"contemporary country, country, country dawn, oklahoma country, post-teen pop",5212886,69,0.0069,0.479,181400,0.742,0.000834,-5.587,142.909,0.454
+I Hate YoungBoy,YoungBoy Never Broke Again,83,"baton rouge rap, trap",8890086,68,0.0266,0.584,261818,0.756,0,-6.245,165.269,0.728
+down home,Jimmie Allen,63,"black americana, contemporary country, country",176562,69,0.01,0.584,201733,0.821,0,-3.628,146,0.571
+Bam Bam (feat. Ed Sheeran),Camila Cabello,83,"dance pop, pop, post-teen pop",26802962,83,0.182,0.756,206071,0.697,0,-6.377,94.996,0.956
+Party Mode,Dustin Lynch,67,"contemporary country, country, country road, modern country rock",1815984,69,0.0483,0.619,211987,0.916,4.88E-06,-2.752,114.019,0.785
+Mask Off,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,3,0.0101,0.834,205693,0.438,0.0149,-8.795,150.041,0.261
+Mask Off,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,4,0.0101,0.834,205693,0.438,0.0149,-8.795,150.041,0.261
+Mask Off,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,2,0.0101,0.834,205693,0.438,0.0149,-8.795,150.041,0.261
+Mask Off,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,3,0.0101,0.834,205693,0.438,0.0149,-8.795,150.041,0.261
+HASTA LA MUERTE,Eslabon Armado,78,"corrido, corridos tumbados, nueva musica mexicana, sierreno",2165506,70,0.28,0.555,209903,0.832,0,-3.691,170.124,0.43
+HOME,Mike Dimes,63,rap,108931,69,0.342,0.895,174915,0.468,0,-5.777,118.019,0.428
+VOODOO (feat. Kodak Black),Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,69,0.0686,0.499,211133,0.404,1.11E-06,-9.469,77.565,0.237
+WE JUS WANNA GET HIGH,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,69,0.00854,0.827,133133,0.634,0.000109,-5.54,158.98,0.609
+Heaven Takes You Home (feat. Connie Constance),Swedish House Mafia,75,"edm, pop, pop dance, progressive electro house",3563935,79,0.0124,0.665,214071,0.738,0.00598,-5.931,125.037,0.0389
+Waddup (feat. Polo G),PGF Nuk,56,,25661,69,0.187,0.706,181540,0.637,0,-7.261,76.062,0.289
+Growing Old With You,Restless Road,55,contemporary country,75779,69,0.403,0.478,196008,0.516,0,-7.276,80.09,0.376
+2step (feat. Lil Baby),Ed Sheeran,91,"pop, uk pop",97725925,50,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+2step (feat. Lil Baby),Ed Sheeran,91,"pop, uk pop",97725925,50,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+HANDSOMER,Russ,77,"hawaiian hip hop, rap",4420525,69,0.188,0.886,143415,0.651,0,-6.413,81.985,0.476
+2step (feat. Potter Payper),Ed Sheeran,91,"pop, uk pop",97725925,52,0.14,0.726,153447,0.671,0,-5.402,95.053,0.552
+2step (feat. Lil Baby),Ed Sheeran,91,"pop, uk pop",97725925,50,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+2step (feat. Lil Baby),Ed Sheeran,91,"pop, uk pop",97725925,50,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+2step (feat. Chefin),Ed Sheeran,91,"pop, uk pop",97725925,64,0.209,0.731,164560,0.642,0,-5.106,94.961,0.504
+Ye Not Crazy,Joyner Lucas,72,"boston hip hop, hip hop, pop rap, rap",1916135,70,0.144,0.862,226759,0.547,0,-9.557,145.191,0.645
+Trouble With A Heartbreak,Jason Aldean,75,"contemporary country, country, country road",5300269,69,0.23,0.582,196027,0.797,0,-4.926,135.973,0.595
+Yours,Conan Gray,79,"bedroom pop, pop",5632572,74,0.848,0.523,204968,0.302,0,-8.868,130.47,0.172
+2step (feat. reezy),Ed Sheeran,91,"pop, uk pop",97725925,58,0.179,0.734,153334,0.68,0,-5.096,95.06,0.499
+2step (feat. Lil Baby),Ed Sheeran,91,"pop, uk pop",97725925,38,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+2step (Star.One Remix),Ed Sheeran,91,"pop, uk pop",97725925,48,0.254,0.669,205187,0.916,0.00117,-4.961,129.956,0.54
+Wandered To LA (with Justin Bieber),Juice WRLD,88,"chicago rap, melodic rap",24114636,72,0.0518,0.687,188833,0.643,3.31E-06,-4.763,135.068,0.418
+2step (feat. Ellinoora),Ed Sheeran,91,"pop, uk pop",97725925,33,0.167,0.705,153373,0.741,0,-4.33,94.962,0.615
+2step (feat. Ultimo),Ed Sheeran,91,"pop, uk pop",97725925,32,0.16,0.727,154160,0.69,0,-5.063,94.935,0.685
+2step (feat. Antytila),Ed Sheeran,91,"pop, uk pop",97725925,28,0.235,0.506,153213,0.695,0,-5.185,93.75,0.599
+2step (feat. Lil Baby),Ed Sheeran,91,"pop, uk pop",97725925,39,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+2step (feat. Budjerah),Ed Sheeran,91,"pop, uk pop",97725925,24,0.212,0.727,153427,0.621,0,-4.784,94.958,0.565
+2step (feat. Potter Payper),Ed Sheeran,91,"pop, uk pop",97725925,27,0.14,0.726,153447,0.671,0,-5.402,95.053,0.552
+2step (feat. Leto),Ed Sheeran,91,"pop, uk pop",97725925,28,0.273,0.73,154453,0.701,0,-5.318,94.97,0.522
+2step (feat. 1.Cuz),Ed Sheeran,91,"pop, uk pop",97725925,41,0.157,0.674,153227,0.663,0,-5.084,94.818,0.617
+2step (feat. Lil Baby),Ed Sheeran,91,"pop, uk pop",97725925,40,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+2step (feat. Denise Chaila),Ed Sheeran,91,"pop, uk pop",97725925,44,0.21,0.728,153227,0.69,0,-4.788,94.986,0.492
+2step (Star.One Remix),Ed Sheeran,91,"pop, uk pop",97725925,23,0.254,0.669,205187,0.916,0.00117,-4.961,129.956,0.54
+2step (feat. reezy),Ed Sheeran,91,"pop, uk pop",97725925,30,0.179,0.734,153334,0.68,0,-5.096,95.06,0.499
+2step (feat. Denise Chaila),Ed Sheeran,91,"pop, uk pop",97725925,23,0.21,0.728,153227,0.69,0,-4.788,94.986,0.492
+2step (feat. Quevedo),Ed Sheeran,91,"pop, uk pop",97725925,24,0.171,0.72,153254,0.709,0,-5.308,94.99,0.537
+2step (feat. Chefin),Ed Sheeran,91,"pop, uk pop",97725925,27,0.209,0.731,164560,0.642,0,-5.106,94.961,0.504
+Long Live Cowgirls (with Cody Johnson),Ian Munsick,61,"contemporary country, wyoming roots",80608,68,0.291,0.233,184747,0.432,0,-5.957,195.663,0.286
+2step (feat. Quevedo),Ed Sheeran,91,"pop, uk pop",97725925,57,0.171,0.72,153254,0.709,0,-5.308,94.99,0.537
+2step (feat. Lil Baby),Ed Sheeran,91,"pop, uk pop",97725925,43,0.138,0.693,163450,0.643,0,-5.867,95.055,0.477
+fuK u lol,CORPSE,69,"dream smp, viral rap",2165903,72,0.0231,0.722,60256,0.968,1.93E-05,-3.397,117.06,0.802
+vice city,XXXTENTACION,86,"emo rap, miami hip hop",36593526,73,0.00596,0.853,220709,0.467,0.00171,-6.843,87.023,0.329
+Don't Play That,King Von,75,"chicago rap, trap",1999563,69,0.0748,0.947,133613,0.605,7.54E-06,-8.621,129.988,0.656
+TUS LÁGRIMAS,Mora,80,"latin, reggaeton, trap latino",457772,85,0.181,0.683,174483,0.714,1.00E-06,-4.898,173.963,0.448
+Gasoline,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,73,0.000582,0.728,212166,0.741,0.00206,-7.075,123.006,0.31
+State Fair,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,70,0.16,0.846,194526,0.603,0,-6.41,95.032,0.598
+Sensual Bebé,Jhay Cortez,84,"latin, reggaeton, trap latino",4086473,78,0.0268,0.776,209147,0.629,0,-6.09,97.066,0.104
+RUMBATÓN,Daddy Yankee,88,"latin, latin hip hop, reggaeton, trap latino",27623489,83,0.0471,0.685,248769,0.909,0,-4.034,95.004,0.922
+Esta Noche,Yahritza Y Su Esencia,67,nueva musica mexicana,152573,71,0.474,0.697,189750,0.755,0,-4.568,147.964,0.623
+Something in the Orange - Z&E's Version,Zach Bryan,79,oklahoma country,416727,67,0.416,0.594,254258,0.382,0,-5.432,110.237,0.223
+Treat Me,Chlöe,62,,165399,71,0.0442,0.708,149866,0.793,2.62E-06,-2.518,94.005,0.503
+Understand,BoyWithUke,78,,1401969,75,0.81,0.828,171947,0.658,1.06E-06,-6.19,103.051,0.917
+Polaroid Love,ENHYPEN,74,"anime, k-pop boy group",3712850,80,0.458,0.738,184602,0.67,0,-3.766,138.055,0.651
+Wishing Well,Juice WRLD,88,"chicago rap, melodic rap",24114636,0,0.00336,0.65,194621,0.613,0,-6.13,149.972,0.0804
+off the leash! (feat. yvngxchris and Luisss),BabySantana,62,"hyperpop francais, pluggnb",216908,70,0.0651,0.658,192115,0.683,0,-8.219,144.001,0.178
+U Know What's Up,4*TOWN (From Disney and Pixar’s Turning Red),66,disney,230725,72,0.0361,0.812,188893,0.52,1.22E-06,-9.796,110.046,0.488
+Sigue,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,81,0.0515,0.889,159387,0.641,2.75E-05,-4.494,87.99,0.588
+All 4 Nothing (I'm So In Love),Lauv,77,"dance pop, electropop, pop",5034895,76,0.0557,0.714,182507,0.802,0,-5.339,132.005,0.882
+Rock N Roll (feat. Kanye West & Kid Cudi),Pusha T,76,"hip hop, rap, southern hip hop, trap, underground hip hop, virginia hip hop",2455825,70,0.0526,0.687,233923,0.783,0,-4.573,156.141,0.359
+556 (Green Tip),iayze,59,"plugg, pluggnb, vapor trap",49315,68,0.159,0.872,117191,0.278,0,-11.478,74.996,0.49
+We Go Up (feat. Fivio Foreign),Nicki Minaj,85,"dance pop, hip pop, pop, pop rap, queens hip hop",25136498,72,0.413,0.707,255189,0.909,0,-3.501,145.014,0.703
+Where you are (feat. WILLOW),PinkPantheress,70,russian plugg,1129397,72,0.0965,0.689,153706,0.872,0.000498,-4.786,134.994,0.362
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,0,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Say So,Doja Cat,88,"dance pop, pop",19072872,2,0.264,0.787,237893,0.673,3.35E-06,-4.583,110.962,0.779
+Say So,Doja Cat,88,"dance pop, pop",19072872,3,0.264,0.787,237893,0.673,3.35E-06,-4.583,110.962,0.779
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,1,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Say So,Doja Cat,88,"dance pop, pop",19072872,0,0.264,0.787,237893,0.673,3.35E-06,-4.583,110.962,0.779
+Say So,Doja Cat,88,"dance pop, pop",19072872,1,0.264,0.787,237893,0.673,3.35E-06,-4.583,110.962,0.779
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,1,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,0,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Say So,Doja Cat,88,"dance pop, pop",19072872,3,0.245,0.802,238093,0.522,6.93E-06,-7.794,111,0.714
+Say So,Doja Cat,88,"dance pop, pop",19072872,0,0.264,0.787,237893,0.673,3.35E-06,-4.583,110.962,0.779
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,0,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,2,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,4,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,1,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Streets,Doja Cat,88,"dance pop, pop",19072872,2,0.21,0.749,226987,0.463,0.0382,-8.433,90.035,0.189
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,10,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Get Into It (Yuh),Doja Cat,88,"dance pop, pop",19072872,2,0.315,0.912,138293,0.655,3.39E-05,-6.029,91.942,0.793
+Streets,Doja Cat,88,"dance pop, pop",19072872,2,0.21,0.749,226987,0.463,0.0382,-8.433,90.035,0.189
+Streets,Doja Cat,88,"dance pop, pop",19072872,6,0.21,0.749,226987,0.463,0.0382,-8.433,90.035,0.189
+Streets,Doja Cat,88,"dance pop, pop",19072872,4,0.21,0.749,226987,0.463,0.0382,-8.433,90.035,0.189
+Feline (with Polo G & Trippie Redd),Juice WRLD,88,"chicago rap, melodic rap",24114636,70,0.0208,0.575,212204,0.619,0,-6.663,110.109,0.296
+Wheelie (feat. 21 Savage),Latto,72,"pop, r&b, trap queen",795715,70,0.0313,0.911,170270,0.667,0,-6.606,147.976,0.78
+Publicity Stunt,Gucci Mane,77,"atl hip hop, dirty south rap, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",4337750,68,0.149,0.782,196658,0.557,0,-7.419,130.16,0.393
+Happiest Year,Jaymes Young,74,"modern rock, pop",804320,76,0.885,0.502,228443,0.168,0,-14.061,112.881,0.355
+SOLD OUT,HARDY,70,contemporary country,162215,67,0.00556,0.504,202912,0.893,1.83E-05,-4.801,145.005,0.333
+LA FAMA (with The Weeknd),ROSALÍA,81,r&b en espanol,5410354,76,0.947,0.766,188107,0.295,4.44E-05,-7.893,136.016,0.805
+Words (feat. Zara Larsson),Alesso,75,"dance pop, edm, electro house, pop, pop dance, tropical house",3815720,80,0.0245,0.739,142677,0.586,0.000252,-5.079,124.026,0.444
+WAIT FOR U (feat. Drake & Tems),Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,70,0.314,0.463,189893,0.642,0,-4.474,83.389,0.339
+Opening Sequence,TOMORROW X TOGETHER,78,"k-pop, k-pop boy group",6330236,76,0.167,0.609,177976,0.64,0,-5.61,145.199,0.442
+Where Did You Go? (feat. MNEK),Jax Jones,75,"dance pop, edm, electro house, house, pop, pop dance, pop rap, tropical house, uk dance",1025206,85,0.182,0.763,177689,0.782,7.08E-06,-4.541,127.034,0.502
+Shotta Flow 6,NLE Choppa,76,memphis hip hop,4646214,69,0.0194,0.859,192148,0.596,0,-7.021,140.064,0.479
+Levitating - KUU Remix,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00305,0.734,250985,0.89,0.000472,-6.069,111.975,0.361
+We're Good,Dua Lipa,88,"dance pop, pop, uk pop",34116922,0,0.0319,0.722,165507,0.588,0,-5.932,134.01,0.59
+Levitating,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00883,0.702,203064,0.825,0,-3.787,102.977,0.915
+Future Nostalgia,Dua Lipa,88,"dance pop, pop, uk pop",34116922,0,0.00618,0.875,184882,0.813,0,-4.502,114.993,0.859
+New Rules - Acoustic,Dua Lipa,88,"dance pop, pop, uk pop",34116922,2,0.601,0.825,213436,0.345,0,-6.018,116.072,0.506
+Garden,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.0047,0.459,227947,0.828,0,-4.005,151.497,0.419
+thought i was playing,Gunna,85,"atl hip hop, melodic rap, rap, trap",4312479,69,0.00421,0.679,167840,0.73,0,-7.483,148.038,0.292
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,1,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+Nail Tech,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,2,0.0029,0.647,206385,0.581,7.76E-06,-7.678,150.149,0.113
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,2,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+The Joker And The Queen (feat. Taylor Swift),Ed Sheeran,91,"pop, uk pop",97725925,79,0.924,0.528,185422,0.309,2.10E-06,-7.398,133.83,0.307
+Levitating - Don Diablo Remix,Dua Lipa,88,"dance pop, pop, uk pop",34116922,0,0.104,0.686,208000,0.917,1.44E-06,-3.06,119.979,0.387
+Levitating,Dua Lipa,88,"dance pop, pop, uk pop",34116922,0,0.00883,0.702,203064,0.825,0,-3.787,102.977,0.915
+Love Again,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00173,0.659,258004,0.667,2.85E-05,-4.668,115.982,0.468
+Levitating,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00883,0.702,203064,0.825,0,-3.787,102.977,0.915
+Physical,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.0281,0.66,193697,0.875,0.00158,-3.333,146.946,0.688
+No Goodbyes,Dua Lipa,88,"dance pop, pop, uk pop",34116922,0,0.00794,0.683,216080,0.714,0,-4.924,108.982,0.304
+Break My Heart,Dua Lipa,88,"dance pop, pop, uk pop",34116922,4,0.167,0.73,221820,0.729,1.39E-06,-3.434,113.011,0.467
+Love Again,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00173,0.659,258004,0.667,2.85E-05,-4.668,115.982,0.468
+Levitating,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00883,0.702,203064,0.825,0,-3.787,102.977,0.915
+Love Again,Dua Lipa,88,"dance pop, pop, uk pop",34116922,0,0.00173,0.659,258004,0.667,2.85E-05,-4.668,115.982,0.468
+We're Good,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.0319,0.722,165507,0.588,0,-5.932,134.01,0.59
+Break My Heart - Moodymann Remix,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.022,0.772,352453,0.637,0.0353,-7.846,113.022,0.409
+Levitating,Dua Lipa,88,"dance pop, pop, uk pop",34116922,2,0.00883,0.702,203064,0.825,0,-3.787,102.977,0.915
+Physical,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.0281,0.66,193697,0.875,0.00158,-3.333,146.946,0.688
+RUN2U,STAYC,66,"k-pop, k-pop girl group",800242,75,0.000835,0.722,213427,0.676,1.20E-05,-5.885,129.943,0.362
+I Can't Help But Feel,Surfaces,71,"bedroom soul, pop",837187,70,0.328,0.722,178781,0.706,0,-4.552,114.983,0.715
+up at night (feat. justin bieber),Kehlani,76,"alternative r&b, dance pop, pop, pop rap, r&b",5851015,74,0.196,0.563,182227,0.756,0,-3.852,100.012,0.234
+Heavy (with Lil Uzi Vert),Nigo,66,,58096,69,0.167,0.677,200426,0.558,0,-7.681,144.485,0.384
+Love Again,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00173,0.659,258004,0.667,2.85E-05,-4.668,115.982,0.468
+Break My Heart - Jax Jones Midnight Snack Remix,Dua Lipa,88,"dance pop, pop, uk pop",34116922,0,0.00237,0.601,223227,0.947,0.306,-4.703,128.028,0.692
+Future Nostalgia,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00618,0.875,184882,0.813,0,-4.502,114.993,0.859
+Running,Dua Lipa,88,"dance pop, pop, uk pop",34116922,3,0.0175,0.62,221947,0.698,0,-3.739,98.002,0.321
+Levitating,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00883,0.702,203064,0.825,0,-3.787,102.977,0.915
+Levitating,Dua Lipa,88,"dance pop, pop, uk pop",34116922,1,0.00883,0.702,203064,0.825,0,-3.787,102.977,0.915
+Good In Bed,Dua Lipa,88,"dance pop, pop, uk pop",34116922,2,0.138,0.68,218754,0.701,0.000191,-5.001,94.06,0.649
+Love Again,Dua Lipa,88,"dance pop, pop, uk pop",34116922,0,0.00173,0.659,258004,0.667,2.85E-05,-4.668,115.982,0.468
+ZOMBIFIED,Falling In Reverse,68,"metalcore, modern rock, rap metal, rock",2087840,70,0.000141,0.544,218521,0.911,8.89E-06,-3.681,91.033,0.558
+WHATS POPPIN,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,4,0.017,0.923,139741,0.604,0,-6.671,145.062,0.824
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,2,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,1,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,1,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+Se Acabo - En Vivo,Lenin Ramírez,70,"corrido, musica mexicana, nueva musica mexicana, sierreno",1925678,74,0.515,0.593,230000,0.364,0,-7.242,83.133,0.652
+Escape (feat. Hayla),Kx5,57,"edm, pop dance",15421,75,0.179,0.66,240445,0.799,0.000364,-6.934,126.08,0.148
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,2,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+Nail Tech,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0029,0.647,206385,0.581,7.76E-06,-7.678,150.149,0.113
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,1,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+WHATS POPPIN - Remix,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,2,0.0631,0.904,227478,0.723,0,-5.224,145.013,0.835
+First Class,Jack Harlow,88,"deep underground hip hop, kentucky hip hop, rap",2159939,0,0.0254,0.905,173948,0.563,9.71E-06,-6.135,106.998,0.324
+"Here We Go… Again (feat. Tyler, the Creator)",The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,71,0.345,0.469,209778,0.623,0,-4.432,134.943,0.198
+Big tonka (feat. Lil Uzi Vert),Yeat,80,"pluggnb, rap",777203,68,0.00652,0.667,207760,0.67,0,-7.081,130.082,0.208
+No Love (with SZA & Cardi B) - Extended Version,Summer Walker,78,"pop, r&b",3625986,70,0.192,0.722,276214,0.613,0,-4.996,133.937,0.607
+Feel My Rhythm,Red Velvet,73,"k-pop, k-pop girl group",6976501,79,0.0648,0.412,210253,0.94,0,-2.171,157.964,0.423
+Dream Girl Evil,Florence + The Machine,77,"baroque pop, pop, uk alternative pop",5937620,72,0.0118,0.553,227374,0.71,0.00111,-6.657,83.026,0.262
+Last Call,Khalid,84,"pop, pop r&b",15270505,73,0.0254,0.553,191376,0.727,0.0113,-6.905,173.972,0.286
+We Set The Trends (feat. Migos & ‎Juelz Santana) - Remix,Jim Jones,60,"gangster rap, harlem hip hop, hip hop, pop rap, rap, trap",563283,68,0.0771,0.801,217815,0.794,0,-4.674,119.044,0.757
+In Da Getto,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,2,0.0177,0.924,130667,0.723,2.61E-05,-3.142,126.998,0.643
+Go Hard 2.0,Juice WRLD,88,"chicago rap, melodic rap",24114636,68,0.611,0.616,214728,0.463,4.65E-06,-7.666,145.289,0.0682
+fake love don't last (feat. iann dior),Machine Gun Kelly,81,ohio hip hop,4604714,70,0.0226,0.659,143205,0.733,0,-4.878,146.053,0.763
+MÉTELE AL PERREO,Daddy Yankee,88,"latin, latin hip hop, reggaeton, trap latino",27623489,3,0.0735,0.671,223244,0.764,0.0011,-2.422,180.183,0.706
+PROBLEMA,Daddy Yankee,88,"latin, latin hip hop, reggaeton, trap latino",27623489,0,0.0613,0.773,184507,0.8,0.00403,-3.17,89.988,0.842
+SÚBELE EL VOLUMEN,Daddy Yankee,88,"latin, latin hip hop, reggaeton, trap latino",27623489,1,0.0219,0.83,223366,0.623,0,-4.056,101.036,0.614
+Open the Gate,Zach Bryan,79,oklahoma country,416727,66,0.00779,0.427,234772,0.606,3.80E-05,-5.014,148.977,0.531
+Super,Cordae,68,"dmv rap, hip hop, rap, trap",1766641,68,0.113,0.899,177554,0.695,0,-4.749,139.027,0.394
+In Da Getto,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,2,0.0177,0.924,130667,0.723,2.61E-05,-3.142,126.998,0.643
+In Da Getto,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,1,0.0177,0.924,130667,0.723,2.61E-05,-3.142,126.998,0.643
+Rojo,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,2,0.15,0.652,151147,0.595,0.000106,-4.04,172.277,0.421
+In Da Getto,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,2,0.0177,0.924,130667,0.723,2.61E-05,-3.142,126.998,0.643
+No Es Justo,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,2,0.151,0.811,251267,0.812,0.000362,-4.47,87.98,0.689
+BACK TO THE BASICS,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,68,0.442,0.765,177027,0.46,4.11E-06,-7.23,119.919,0.418
+Miserable Man,David Kushner,63,gen z singer-songwriter,303786,74,0.926,0.632,232992,0.349,7.50E-05,-10.289,109.981,0.307
+Pray,Jessie Murph,64,"alt z, pop",320409,73,0.726,0.588,146267,0.39,1.26E-05,-7.753,96.571,0.206
+Otra Noche Sin Ti,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,0,0.0751,0.503,228920,0.548,0.000234,-7.564,94.036,0.441
+UN DIA (ONE DAY),J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,0,0.00638,0.58,232147,0.695,0,-8.244,168.124,0.402
+Qué Más Pues?,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,2,0.0254,0.904,217362,0.817,0.000141,-3.956,101.988,0.753
+Bonita,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,0,0.0153,0.774,265933,0.873,0.00506,-1.587,96.033,0.845
+Otra Noche Sin Ti,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,0,0.0751,0.503,228920,0.548,0.000234,-7.564,94.036,0.441
+UN DIA (ONE DAY),J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,2,0.00638,0.58,232147,0.695,0,-8.244,168.124,0.402
+Arcoíris,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,0,0.08,0.611,187120,0.781,0,-5.261,186.162,0.413
+LA CANCIÓN,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,0,0.152,0.756,242573,0.646,1.81E-05,-5.795,176.088,0.429
+Qué Más Pues?,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,0,0.0254,0.904,217362,0.817,0.000141,-3.956,101.988,0.753
+Sigue,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,1,0.0515,0.889,159387,0.641,2.75E-05,-4.494,87.99,0.588
+West Coast,OneRepublic,81,"dance pop, piano rock, pop, pop rock",13699438,76,0.317,0.685,192948,0.699,0,-7.803,134.057,0.884
+Rolex® On A Redneck,Brantley Gilbert,66,"contemporary country, country, country road, modern country rock, redneck",2577321,67,0.309,0.651,179867,0.793,0,-4.571,130.012,0.381
+Praise The Lord (feat. Thomas Rhett),BRELAND,62,"black americana, contemporary country",55236,67,0.0474,0.826,160290,0.603,0,-7.659,107.494,0.681
+THE_EVIL_THAT_MEN_DO,$uicideboy$,81,"dark trap, new orleans rap, underground hip hop",4483493,68,0.132,0.566,173372,0.547,0.000166,-9.777,70,0.267
+Please Do Not Lean (feat. BADBADNOTGOOD),Daniel Caesar,77,"canadian contemporary r&b, pop, r&b",3268134,71,0.241,0.67,240938,0.41,8.55E-06,-13.444,127.972,0.46
+WIG (with Moneybagg Yo),DaBaby,83,"north carolina hip hop, rap, trap",9667695,69,0.0167,0.775,177987,0.5,0,-7.654,148.926,0.401
+cinderella's dead,EMELINE,60,alt z,181990,74,0.33,0.596,120666,0.607,0,-6.179,119.882,0.531
+double take,dhruv,66,"chill r&b, nyc pop, pop",292282,80,0.845,0.656,171743,0.436,0,-11.141,109.239,0.196
+Over,Lucky Daye,70,"alternative r&b, indie r&b, pop, r&b",393724,71,0.502,0.65,207413,0.555,0,-5.971,103.081,0.352
+feelz,Lil Peep,81,"emo rap, lgbtq+ hip hop",9099863,66,0.0372,0.743,145267,0.856,0,-6.276,147.638,0.932
+Gogo Dance,El Alfa,76,"dembow, latin, rap dominicano, reggaeton, trap latino",2220172,76,0.12,0.596,173390,0.868,0.518,-4.95,118.02,0.705
+Neck & Wrist (feat. JAY-Z & Pharrell),Pusha T,76,"hip hop, rap, southern hip hop, trap, underground hip hop, virginia hip hop",2455825,69,0.0223,0.625,209315,0.542,0,-4.365,152.403,0.328
+No Es Justo,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,1,0.151,0.811,251267,0.812,0.000362,-4.47,87.98,0.689
+QUE PRETENDES,J Balvin,87,"latin, reggaeton, reggaeton colombiano, trap latino",34044763,0,0.0275,0.639,222347,0.791,0,-4.443,92.603,0.933
+"die in california (feat. Gunna, Young Thug & Landon Barker)",Machine Gun Kelly,81,ohio hip hop,4604714,70,0.238,0.765,207008,0.606,4.14E-06,-7.495,98.948,0.197
+Darl+ing,SEVENTEEN,76,"k-pop, k-pop boy group",6855551,76,0.296,0.71,176547,0.686,0,-4.926,96.06,0.483
+That's Where I Am,Maggie Rogers,64,"indie pop, pop",829866,68,0.132,0.269,252760,0.764,0,-3.735,181.299,0.15
+Watercolor Eyes - From “Euphoria” An HBO Original Series,Lana Del Rey,84,"art pop, pop",16413391,74,0.964,0.444,211613,0.26,0.0815,-10.045,120.443,0.121
+WHERE WE ARE,The Lumineers,75,"folk-pop, pop, stomp and holler",4732518,66,0.759,0.573,172800,0.507,1.37E-06,-8.084,123.183,0.363
+Girl Of My Dreams (with SUGA of BTS),Juice WRLD,88,"chicago rap, melodic rap",24114636,73,0.194,0.603,226149,0.771,0,-6.336,139.988,0.332
+Mojando Asientos (feat. Feid),Maluma,83,"latin, reggaeton, reggaeton colombiano, trap latino",31060983,80,0.0352,0.773,252162,0.767,0,-4.019,94.99,0.49
+j's lullaby (darlin' i'd wait for you),Delaney Bailey,56,"gen z singer-songwriter, indie pop",111708,70,0.498,0.54,290132,0.11,0.000614,-19.885,76.068,0.172
+How Do I Make You Love Me?,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,72,0.0203,0.805,214215,0.498,2.37E-05,-7.927,121.006,0.636
+Worst Day,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,69,0.11,0.646,184893,0.597,0,-6.045,88.506,0.6
+Big Energy,Latto,72,"pop, r&b, trap queen",795715,72,0.0453,0.937,172540,0.793,0,-4.431,106.022,0.794
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,83,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+The Last Goodbye (feat. Bettye LaVette),ODESZA,68,"chillwave, ninja",1389563,73,0.00752,0.667,358983,0.92,0.00232,-2.71,114.977,0.146
+Krazy Krazy,Nardo Wick,69,"florida rap, rap, trap",246383,66,0.00207,0.593,141934,0.818,7.57E-06,-5.332,162.036,0.385
+"Elliot's Song - From ""Euphoria"" An HBO Original Series",Dominic Fike,73,"alternative pop rock, pop",923696,72,0.849,0.394,150320,0.327,0,-14.291,93.358,0.411
+"Lost and Found Freestyle 2019 (with Tyler, The Creator & Nigo)",A$AP Rocky,81,"east coast hip hop, hip hop, rap, trap",11190337,68,0.0185,0.458,174863,0.697,0,-5.02,172.584,0.495
+when the party's over,Billie Eilish,87,"art pop, electropop, pop",62961139,6,0.979,0.484,199931,0.103,8.16E-05,-14.075,124.011,0.194
+Happier Than Ever,Billie Eilish,87,"art pop, electropop, pop",62961139,1,0.767,0.332,298899,0.225,0.00349,-8.697,81.055,0.297
+Strangers,Maddie & Tae,62,"contemporary country, country",914611,66,0.515,0.534,212667,0.632,0,-5.833,143.866,0.227
+Take My Breath,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,73,0.0128,0.698,339023,0.769,0.00166,-7.154,121.02,0.354
+NDA,Billie Eilish,87,"art pop, electropop, pop",62961139,8,0.329,0.765,195777,0.373,0.541,-9.915,85.015,0.59
+bad guy,Billie Eilish,87,"art pop, electropop, pop",62961139,1,0.328,0.701,194088,0.425,0.13,-10.965,135.128,0.562
+Your Power,Billie Eilish,87,"art pop, electropop, pop",62961139,2,0.934,0.625,245897,0.284,0.00031,-14.007,129.631,0.197
+Happier Than Ever,Billie Eilish,87,"art pop, electropop, pop",62961139,0,0.767,0.332,298899,0.225,0.00349,-8.697,81.055,0.297
+Happier Than Ever,Billie Eilish,87,"art pop, electropop, pop",62961139,1,0.767,0.332,298899,0.225,0.00349,-8.697,81.055,0.297
+Happier Than Ever - Edit,Billie Eilish,87,"art pop, electropop, pop",62961139,2,0.0468,0.334,151444,0.599,0.000392,-5.742,161.74,0.127
+Therefore I Am,Billie Eilish,87,"art pop, electropop, pop",62961139,2,0.218,0.889,174321,0.34,0.13,-7.773,94.009,0.716
+Therefore I Am,Billie Eilish,87,"art pop, electropop, pop",62961139,4,0.218,0.889,174321,0.34,0.13,-7.773,94.009,0.716
+Happier Than Ever,Billie Eilish,87,"art pop, electropop, pop",62961139,0,0.767,0.332,298899,0.225,0.00349,-8.697,81.055,0.297
+Happier Than Ever,Billie Eilish,87,"art pop, electropop, pop",62961139,1,0.767,0.332,298899,0.225,0.00349,-8.697,81.055,0.297
+Happier Than Ever,Billie Eilish,87,"art pop, electropop, pop",62961139,0,0.767,0.332,298899,0.225,0.00349,-8.697,81.055,0.297
+Happier Than Ever,Billie Eilish,87,"art pop, electropop, pop",62961139,0,0.767,0.332,298899,0.225,0.00349,-8.697,81.055,0.297
+Happier Than Ever,Billie Eilish,87,"art pop, electropop, pop",62961139,0,0.767,0.332,298899,0.225,0.00349,-8.697,81.055,0.297
+Your Power,Billie Eilish,87,"art pop, electropop, pop",62961139,2,0.934,0.625,245897,0.284,0.00031,-14.007,129.631,0.197
+MUSEO,Rauw Alejandro,89,"puerto rican pop, trap latino",11668105,78,0.763,0.793,255413,0.449,0,-7.212,108.937,0.322
+Préstame Tu Corazón,Efecto Elegante,57,,10661,74,0.65,0.606,182073,0.29,0,-9.84,144.583,0.643
+What’s My Name (with Queen Naija & Coi Leray),Fivio Foreign,75,"brooklyn drill, hip hop, new york drill, rap, trap",941017,70,0.0228,0.776,201399,0.58,0,-7.26,143.032,0.409
+THE WAY THINGS GOING,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,67,0.0234,0.639,179493,0.743,1.72E-05,-4.917,175.067,0.27
+No One Dies From Love,Tove Lo,74,"art pop, dance pop, electropop, metropopolis, pop, swedish electropop, swedish pop, swedish synthpop",3027501,75,0.0717,0.652,186018,0.801,1.22E-06,-6.632,121.099,0.346
+Smokin Out the Window,Bruno Mars,87,"dance pop, pop",40743011,1,0.0558,0.627,197443,0.618,0,-8.529,82.03,0.848
+Treasure - Cash Cash Radio Mix,Bruno Mars,87,"dance pop, pop",40743011,3,0.101,0.664,208279,0.944,0,-2.027,121.936,0.745
+Leave the Door Open,Bruno Mars,87,"dance pop, pop",40743011,0,0.182,0.586,242096,0.616,0,-7.964,148.088,0.719
+Treasure,Bruno Mars,87,"dance pop, pop",40743011,1,0.0412,0.874,178560,0.692,7.40E-05,-5.28,116.02,0.938
+Grenade - Passion Pit Remix,Bruno Mars,87,"dance pop, pop",40743011,0,0.00391,0.704,370812,0.701,0,-4.314,108.992,0.584
+Smokin Out the Window,Bruno Mars,87,"dance pop, pop",40743011,1,0.0558,0.627,197443,0.618,0,-8.529,82.03,0.848
+Love's Train,Bruno Mars,87,"dance pop, pop",40743011,0,0.029,0.71,307014,0.625,1.10E-05,-9.008,140.994,0.784
+If I Knew,Bruno Mars,87,"dance pop, pop",40743011,0,0.722,0.521,132640,0.413,0,-5.86,175.972,0.49
+Talking to the Moon - Acoustic Piano,Bruno Mars,87,"dance pop, pop",40743011,7,0.867,0.352,217773,0.333,0,-6.423,99.511,0.208
+Skate,Bruno Mars,87,"dance pop, pop",40743011,0,0.037,0.708,203123,0.598,0,-8.365,112.027,0.698
+Clarity,Vance Joy,74,"folk-pop, modern rock, pop, pop rock",2621277,71,0.00137,0.552,227240,0.873,0.000273,-6.065,125.059,0.62
+Your Power,Billie Eilish,87,"art pop, electropop, pop",62961139,2,0.934,0.625,245897,0.284,0.00031,-14.007,129.631,0.197
+when the party's over,Billie Eilish,87,"art pop, electropop, pop",62961139,1,0.979,0.484,199931,0.103,8.16E-05,-14.075,124.011,0.194
+Happier Than Ever - Edit,Billie Eilish,87,"art pop, electropop, pop",62961139,1,0.0468,0.334,151444,0.599,0.000392,-5.742,161.74,0.127
+Happier Than Ever,Billie Eilish,87,"art pop, electropop, pop",62961139,0,0.767,0.332,298899,0.225,0.00349,-8.697,81.055,0.297
+Therefore I Am,Billie Eilish,87,"art pop, electropop, pop",62961139,1,0.218,0.889,174321,0.34,0.13,-7.773,94.009,0.716
+Trust Nothing (feat. Moneybagg Yo),King Von,75,"chicago rap, trap",1999563,66,0.153,0.941,185213,0.514,1.82E-06,-6.778,126.046,0.573
+Neck & Wrist (feat. JAY-Z & Pharrell Williams),Pusha T,76,"hip hop, rap, southern hip hop, trap, underground hip hop, virginia hip hop",2455825,69,0.0223,0.625,209315,0.542,0,-4.365,152.403,0.328
+Talking to the Moon,Bruno Mars,87,"dance pop, pop",40743011,19,0.512,0.523,217867,0.607,0,-4.754,145.837,0.0651
+Just the Way You Are - 2010 Remix,Bruno Mars,87,"dance pop, pop",40743011,4,0.0321,0.666,238547,0.844,0,-5.087,109.015,0.453
+Just the Way You Are - Carl Louis & Martin Danielle Club Mix,Bruno Mars,87,"dance pop, pop",40743011,0,0.0508,0.714,319747,0.82,0.0201,-6.264,126.998,0.645
+Smokin Out the Window,Bruno Mars,87,"dance pop, pop",40743011,0,0.0558,0.627,197443,0.618,0,-8.529,82.03,0.848
+Love's Train,Bruno Mars,87,"dance pop, pop",40743011,0,0.029,0.71,307014,0.625,1.10E-05,-9.008,140.994,0.784
+24K Magic - R3hab Remix,Bruno Mars,87,"dance pop, pop",40743011,0,0.146,0.764,158678,0.708,0,-5.692,106.175,0.566
+Love's Train,Bruno Mars,87,"dance pop, pop",40743011,0,0.029,0.71,307014,0.625,1.10E-05,-9.008,140.994,0.784
+Leave the Door Open,Bruno Mars,87,"dance pop, pop",40743011,0,0.182,0.586,242096,0.616,0,-7.964,148.088,0.719
+Love's Train,Bruno Mars,87,"dance pop, pop",40743011,0,0.029,0.71,307014,0.625,1.10E-05,-9.008,140.994,0.784
+That's What I Like,Bruno Mars,87,"dance pop, pop",40743011,0,0.0146,0.852,205080,0.551,0,-4.951,134.061,0.85
+Treasure - Audien Radio Edit,Bruno Mars,87,"dance pop, pop",40743011,0,0.00256,0.61,232381,0.866,1.43E-05,-3.473,126.041,0.467
+Leave the Door Open,Bruno Mars,87,"dance pop, pop",40743011,1,0.182,0.586,242096,0.616,0,-7.964,148.088,0.719
+Leave the Door Open,Bruno Mars,87,"dance pop, pop",40743011,0,0.182,0.586,242096,0.616,0,-7.964,148.088,0.719
+Love's Train,Bruno Mars,87,"dance pop, pop",40743011,6,0.029,0.71,307014,0.625,1.10E-05,-9.008,140.994,0.784
+Smokin Out the Window,Bruno Mars,87,"dance pop, pop",40743011,0,0.0558,0.627,197443,0.618,0,-8.529,82.03,0.848
+Smokin Out the Window,Bruno Mars,87,"dance pop, pop",40743011,0,0.0558,0.627,197443,0.618,0,-8.529,82.03,0.848
+Love's Train,Bruno Mars,87,"dance pop, pop",40743011,0,0.029,0.71,307014,0.625,1.10E-05,-9.008,140.994,0.784
+The Lazy Song,Bruno Mars,87,"dance pop, pop",40743011,2,0.332,0.738,190213,0.804,0,-3.851,174.943,0.948
+Love's Train,Bruno Mars,87,"dance pop, pop",40743011,1,0.029,0.71,307014,0.625,1.10E-05,-9.008,140.994,0.784
+Leave the Door Open,Bruno Mars,87,"dance pop, pop",40743011,0,0.182,0.586,242096,0.616,0,-7.964,148.088,0.719
+Skate,Bruno Mars,87,"dance pop, pop",40743011,2,0.037,0.708,203123,0.598,0,-8.365,112.027,0.698
+Leave the Door Open,Bruno Mars,87,"dance pop, pop",40743011,3,0.182,0.586,242096,0.616,0,-7.964,148.088,0.719
+Versace On the Floor (Bruno Mars vs. David Guetta),Bruno Mars,87,"dance pop, pop",40743011,2,0.108,0.748,228300,0.701,0,-4.901,100.01,0.573
+Talking to the Moon,Bruno Mars,87,"dance pop, pop",40743011,1,0.512,0.523,217867,0.607,0,-4.754,145.837,0.0651
+Believer,Imagine Dragons,87,"modern rock, rock",40280264,1,0.0504,0.766,204347,0.775,0,-4.267,124.751,0.695
+Wrecked,Imagine Dragons,87,"modern rock, rock",40280264,0,0.149,0.625,244005,0.562,1.67E-05,-5.828,93.998,0.229
+Start Over,Imagine Dragons,87,"modern rock, rock",40280264,1,0.00484,0.698,186080,0.931,0.000107,-5.049,98.02,0.752
+Thunder,Imagine Dragons,87,"modern rock, rock",40280264,2,0.00866,0.601,187147,0.824,0.173,-4.757,167.965,0.246
+Believer,Imagine Dragons,87,"modern rock, rock",40280264,0,0.0504,0.766,204347,0.775,0,-4.267,124.751,0.695
+Thunder,Imagine Dragons,87,"modern rock, rock",40280264,0,0.00866,0.601,187147,0.824,0.173,-4.757,167.965,0.246
+Believer,Imagine Dragons,87,"modern rock, rock",40280264,1,0.0504,0.766,204347,0.775,0,-4.267,124.751,0.695
+Bad For Me,Kevin Gates,75,"baton rouge rap, pop rap, rap, southern hip hop, trap",5075401,62,0.0579,0.602,144979,0.605,0,-6.158,187.944,0.452
+El Belicon,Peso Pluma,60,"corrido, corridos tumbados, nueva musica mexicana",14458,76,0.434,0.409,214398,0.713,0.000719,-6.713,97.029,0.725
+Ocean,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,4,0.933,0.727,155947,0.482,0,-6.193,74.93,0.487
+BICHOTA,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,1,0.212,0.863,178947,0.666,0.000493,-4.158,163.908,0.838
+Mi Cama - Remix,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,2,0.299,0.815,196320,0.784,0,-4.423,162.958,0.832
+Punto G,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,1,0.00938,0.791,183160,0.746,0.000125,-4.716,165.994,0.903
+Ahora Me Llama,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,1,0.00947,0.652,233293,0.577,4.02E-05,-5.273,135.009,0.123
+Tu Pum Pum,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,0,0.114,0.755,221120,0.829,6.50E-06,-4.972,89.597,0.734
+AHHH HA,Lil Durk,84,"chicago drill, chicago rap, drill, hip hop, rap, trap",4075650,67,0.000114,0.676,186538,0.61,1.73E-06,-9.185,156.005,0.519
+drug dealer (feat. Lil Wayne),Machine Gun Kelly,81,ohio hip hop,4604714,69,0.00602,0.633,172283,0.717,0,-3.875,142.951,0.602
+LA PERRIE,Eslabon Armado,78,"corrido, corridos tumbados, nueva musica mexicana, sierreno",2165506,69,0.156,0.738,205693,0.785,0,-4.165,108.465,0.829
+DÉJALOS QUE MIREN,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,0,0.704,0.844,167773,0.578,0.000126,-4.367,151.916,0.863
+BICHOTA,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,1,0.212,0.863,178947,0.666,0.000493,-4.158,163.908,0.838
+PROVENZA,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,2,0.656,0.87,210200,0.516,0.00823,-8.006,111.005,0.53
+200 COPAS,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,1,0.766,0.5,198080,0.708,0,-4.803,184.685,0.898
+La Dama,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,1,0.122,0.844,208400,0.781,0.000154,-5.856,100.01,0.734
+BICHOTA,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,0,0.212,0.863,178947,0.666,0.000493,-4.158,163.908,0.838
+SEJODIOTO,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,0,0.157,0.822,181107,0.736,0.000781,-3.969,175.93,0.679
+BICHOTA,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,0,0.212,0.863,178947,0.666,0.000493,-4.158,163.908,0.838
+LOCATION,KAROL G,87,"latin, reggaeton, reggaeton colombiano",24898397,1,0.0433,0.772,265240,0.758,0,-3.891,115.977,0.654
+Wrecked,Imagine Dragons,87,"modern rock, rock",40280264,4,0.149,0.625,244005,0.562,1.67E-05,-5.828,93.998,0.229
+Enemy - From the series Arcane League of Legends,Imagine Dragons,87,"modern rock, rock",40280264,0,0.247,0.722,173381,0.745,0,-4.164,77.029,0.52
+Believer,Imagine Dragons,87,"modern rock, rock",40280264,0,0.0504,0.766,204347,0.775,0,-4.267,124.751,0.695
+Wrecked,Imagine Dragons,87,"modern rock, rock",40280264,0,0.149,0.625,244005,0.562,1.67E-05,-5.828,93.998,0.229
+On Top Of The World,Imagine Dragons,87,"modern rock, rock",40280264,0,0.0897,0.588,192800,0.925,4.89E-06,-5.584,99.83,0.759
+Next To Me,Imagine Dragons,87,"modern rock, rock",40280264,1,0.277,0.305,230289,0.666,9.83E-05,-4.459,168.029,0.392
+Follow You,Imagine Dragons,87,"modern rock, rock",40280264,0,0.00209,0.542,175644,0.732,7.92E-05,-5.956,124.912,0.489
+Moonshine,Bruno Mars,87,"dance pop, pop",40743011,0,0.21,0.706,228573,0.782,4.86E-06,-4.353,104.983,0.418
+Love's Train,Bruno Mars,87,"dance pop, pop",40743011,0,0.029,0.71,307014,0.625,1.10E-05,-9.008,140.994,0.784
+Smokin Out the Window,Bruno Mars,87,"dance pop, pop",40743011,0,0.0558,0.627,197443,0.618,0,-8.529,82.03,0.848
+Locked Out of Heaven,Bruno Mars,87,"dance pop, pop",40743011,1,0.049,0.726,233478,0.699,0,-4.165,143.994,0.866
+Smokin Out the Window,Bruno Mars,87,"dance pop, pop",40743011,0,0.0558,0.627,197443,0.618,0,-8.529,82.03,0.848
+Treasure - Bailey Smalls Radio Edit,Bruno Mars,87,"dance pop, pop",40743011,0,0.24,0.651,212903,0.874,0.000776,-4.977,128.01,0.477
+Chunky,Bruno Mars,87,"dance pop, pop",40743011,1,0.0208,0.571,186973,0.539,0,-4.446,202.103,0.727
+Smokin Out the Window,Bruno Mars,87,"dance pop, pop",40743011,0,0.0558,0.627,197443,0.618,0,-8.529,82.03,0.848
+Smokin Out the Window,Bruno Mars,87,"dance pop, pop",40743011,0,0.0558,0.627,197443,0.618,0,-8.529,82.03,0.848
+Leave the Door Open,Bruno Mars,87,"dance pop, pop",40743011,0,0.182,0.586,242096,0.616,0,-7.964,148.088,0.719
+Love's Train,Bruno Mars,87,"dance pop, pop",40743011,0,0.029,0.71,307014,0.625,1.10E-05,-9.008,140.994,0.784
+24K Magic,Bruno Mars,87,"dance pop, pop",40743011,1,0.034,0.818,225983,0.804,0,-4.282,106.969,0.634
+Leave the Door Open,Bruno Mars,87,"dance pop, pop",40743011,0,0.182,0.586,242096,0.616,0,-7.964,148.088,0.719
+Head Off,DaBaby,83,"north carolina hip hop, rap, trap",9667695,66,0.133,0.711,180870,0.64,0,-6.605,138.114,0.579
+Long Drives,BoyWithUke,78,,1401969,72,0.676,0.854,159646,0.675,3.45E-05,-7.509,130.002,0.982
+Follow You,Imagine Dragons,87,"modern rock, rock",40280264,1,0.00209,0.542,175644,0.732,7.92E-05,-5.956,124.912,0.489
+Thunder,Imagine Dragons,87,"modern rock, rock",40280264,0,0.00866,0.601,187147,0.824,0.173,-4.757,167.965,0.246
+Follow You,Imagine Dragons,87,"modern rock, rock",40280264,1,0.00209,0.542,175644,0.732,7.92E-05,-5.956,124.912,0.489
+Follow You,Imagine Dragons,87,"modern rock, rock",40280264,1,0.00209,0.542,175644,0.732,7.92E-05,-5.956,124.912,0.489
+Enemy - from the series Arcane League of Legends,Imagine Dragons,87,"modern rock, rock",40280264,0,0.237,0.728,173381,0.783,0,-4.424,77.011,0.555
+Believer,Imagine Dragons,87,"modern rock, rock",40280264,1,0.0504,0.766,204347,0.775,0,-4.267,124.751,0.695
+Follow You,Imagine Dragons,87,"modern rock, rock",40280264,0,0.00209,0.542,175644,0.732,7.92E-05,-5.956,124.912,0.489
+Wrecked,Imagine Dragons,87,"modern rock, rock",40280264,0,0.149,0.625,244005,0.562,1.67E-05,-5.828,93.998,0.229
+Follow You,Imagine Dragons,87,"modern rock, rock",40280264,0,0.00209,0.542,175644,0.732,7.92E-05,-5.956,124.912,0.489
+Follow You,Imagine Dragons,87,"modern rock, rock",40280264,2,0.00209,0.542,175644,0.732,7.92E-05,-5.956,124.912,0.489
+Enemy - from the series Arcane League of Legends,Imagine Dragons,87,"modern rock, rock",40280264,1,0.237,0.728,173381,0.783,0,-4.424,77.011,0.555
+PS5 (with TOMORROW X TOGETHER & Alan Walker),salem ilese,67,"alt z, modern indie pop, pop",240440,78,0.0131,0.602,152214,0.642,5.33E-06,-5.404,175.978,0.54
+Weatherman,Eddie Benjamin,54,modern indie pop,31629,70,0.183,0.772,145979,0.437,0,-6.877,96.971,0.814
+twin flame,Machine Gun Kelly,81,ohio hip hop,4604714,70,0.46,0.402,239212,0.27,0,-8.275,140.036,0.123
+Let The Smokers Shine The Coupes,Pusha T,76,"hip hop, rap, southern hip hop, trap, underground hip hop, virginia hip hop",2455825,68,0.00542,0.687,150277,0.886,0.774,-4.165,98.918,0.189
+DARARI,TREASURE,70,,1745333,82,0.486,0.716,220716,0.638,0,-6.87,84.955,0.552
+Doublë,Yeat,80,"pluggnb, rap",777203,67,0.0156,0.725,170453,0.634,0,-8.517,123.926,0.292
+toxic city,Lil Peep,81,"emo rap, lgbtq+ hip hop",9099863,63,0.014,0.625,176880,0.619,0,-7.513,120.094,0.285
+O.O,NMIXX,64,k-pop girl group,388684,78,0.0354,0.39,172936,0.767,4.26E-06,-3.918,200.263,0.285
+You Were Loved (with OneRepublic),Gryffin,71,"dance pop, edm, pop, pop dance, tropical house",817786,74,0.0947,0.636,221885,0.69,0,-5.011,123.994,0.444
+3G (feat. Lil Uzi Vert),Yeat,80,"pluggnb, rap",777203,66,0.00773,0.758,170640,0.572,1.18E-05,-8.087,135.984,0.152
+Everglow,Coldplay,86,"permanent wave, pop",36032483,2,0.969,0.386,301800,0.259,0.012,-8.957,77.436,0.308
+Adventure of a Lifetime - Matoma Remix,Coldplay,86,"permanent wave, pop",36032483,0,0.00381,0.651,250714,0.771,1.71E-05,-6.541,112.015,0.456
+Every Teardrop Is a Waterfall,Coldplay,86,"permanent wave, pop",36032483,1,0.00151,0.428,243000,0.741,0.00277,-7.003,118.025,0.342
+Champion of the World,Coldplay,86,"permanent wave, pop",36032483,0,0.00276,0.503,257547,0.594,0.0102,-7.095,108.9,0.168
+Higher Power,Coldplay,86,"permanent wave, pop",36032483,0,0.00711,0.507,211295,0.828,2.44E-05,-6.023,178.032,0.489
+Plan A,Paulo Londra,81,"argentine hip hop, trap argentino, trap latino",16689763,86,0.0495,0.583,178203,0.834,0,-4.875,173.935,0.557
+Greener Pasture,Carter Faith,51,country pop,5045,66,0.0282,0.63,189443,0.544,0,-7.252,112.942,0.389
+Rockstar In His Prime,Juice WRLD,88,"chicago rap, melodic rap",24114636,68,0.415,0.685,180750,0.729,0,-8.694,170.025,0.382
+Fish Scale,YoungBoy Never Broke Again,83,"baton rouge rap, trap",8890086,65,0.0254,0.869,170959,0.616,0,-5.76,145.824,0.342
+Therapy Music (feat. Russ),Logic,77,"conscious hip hop, dmv rap, hip hop, pop rap, rap",5717593,68,0.407,0.786,262748,0.718,0,-3.451,92.04,0.465
+Toxic Pony,ALTÉGO,62,,44080,75,0.00757,0.775,198042,0.652,0.000598,-9.906,143.08,0.922
+A Head Full of Dreams,Coldplay,86,"permanent wave, pop",36032483,0,0.0021,0.449,223773,0.92,0.0167,-4.982,122.984,0.0772
+Higher Power,Coldplay,86,"permanent wave, pop",36032483,0,0.00711,0.507,211295,0.828,2.44E-05,-6.023,178.032,0.489
+Champion of the World,Coldplay,86,"permanent wave, pop",36032483,0,0.00276,0.503,257547,0.594,0.0102,-7.095,108.9,0.168
+A Sky Full of Stars,Coldplay,86,"permanent wave, pop",36032483,3,0.00617,0.545,267867,0.675,0.00197,-6.474,124.97,0.162
+Orphans - Muzi Remix,Coldplay,86,"permanent wave, pop",36032483,0,0.077,0.82,221160,0.827,0.105,-6.672,112.964,0.62
+Adventure of a Lifetime - Matoma Remix,Coldplay,86,"permanent wave, pop",36032483,0,0.00381,0.651,250714,0.771,1.71E-05,-6.541,112.015,0.456
+Higher Power,Coldplay,86,"permanent wave, pop",36032483,0,0.00711,0.507,211295,0.828,2.44E-05,-6.023,178.032,0.489
+Cry Cry Cry,Coldplay,86,"permanent wave, pop",36032483,1,0.89,0.491,167280,0.262,0.288,-10.458,204.52,0.338
+Higher Power,Coldplay,86,"permanent wave, pop",36032483,0,0.00711,0.507,211295,0.828,2.44E-05,-6.023,178.032,0.489
+A Sky Full of Stars,Coldplay,86,"permanent wave, pop",36032483,1,0.00617,0.545,267867,0.675,0.00197,-6.474,124.97,0.162
+Champion of the World,Coldplay,86,"permanent wave, pop",36032483,0,0.00276,0.503,257547,0.594,0.0102,-7.095,108.9,0.168
+Higher Power,Coldplay,86,"permanent wave, pop",36032483,0,0.00711,0.507,211295,0.828,2.44E-05,-6.023,178.032,0.489
+Higher Power,Coldplay,86,"permanent wave, pop",36032483,0,0.00711,0.507,211295,0.828,2.44E-05,-6.023,178.032,0.489
+On Top Of The World,Imagine Dragons,87,"modern rock, rock",40280264,0,0.0897,0.588,192800,0.925,4.89E-06,-5.584,99.83,0.759
+Talk (Francois K Dub) - Remix,Coldplay,86,"permanent wave, pop",36032483,0,0.00487,0.797,543613,0.844,0.626,-8.329,126.979,0.519
+A Sky Full of Stars,Coldplay,86,"permanent wave, pop",36032483,0,0.00617,0.545,267867,0.675,0.00197,-6.474,124.97,0.162
+Champion of the World,Coldplay,86,"permanent wave, pop",36032483,1,0.00276,0.503,257547,0.594,0.0102,-7.095,108.9,0.168
+Higher Power,Coldplay,86,"permanent wave, pop",36032483,0,0.00711,0.507,211295,0.828,2.44E-05,-6.023,178.032,0.489
+A Sky Full of Stars,Coldplay,86,"permanent wave, pop",36032483,1,0.00617,0.545,267867,0.675,0.00197,-6.474,124.97,0.162
+A Sky Full of Stars,Coldplay,86,"permanent wave, pop",36032483,1,0.00617,0.545,267867,0.675,0.00197,-6.474,124.97,0.162
+HANDSOMER (Extended Remix) (Feat. Ktlyn),Russ,77,"hawaiian hip hop, rap",4420525,67,0.194,0.79,192439,0.609,0,-6.579,81.971,0.54
+Wraith,Chance the Rapper,75,"chicago rap, conscious hip hop, hip hop, pop rap, rap",5655455,66,0.162,0.957,147692,0.528,1.30E-06,-6.025,130.001,0.687
+25k jacket (feat. Lil Baby),Gunna,85,"atl hip hop, melodic rap, rap, trap",4312479,68,0.16,0.903,120000,0.537,0,-6.854,115.013,0.737
+I Ain't Worried,OneRepublic,81,"dance pop, piano rock, pop, pop rock",13699438,74,0.0826,0.704,148486,0.797,0.000745,-5.927,139.994,0.825
+Stars In The Sky - From Sonic The Hedgehog 2,Kid Cudi,80,"hip hop, ohio hip hop, rap",5819215,68,0.0497,0.734,185669,0.766,0.000314,-6.44,132.064,0.832
+COMPLETE MESS,5 Seconds of Summer,79,"boy band, dance pop, pop, post-teen pop",8556324,74,0.0573,0.398,206361,0.519,1.86E-05,-6.926,81.377,0.133
+People Talk,Kidd G,61,,149154,65,0.00776,0.608,191080,0.801,0,-6.912,87.974,0.262
+everything,Kehlani,76,"alternative r&b, dance pop, pop, pop rap, r&b",5851015,69,0.851,0.388,207551,0.448,0,-5.221,142.342,0.397
+Chronicles (feat. H.E.R. & Lil Durk),Cordae,68,"dmv rap, hip hop, rap, trap",1766641,68,0.3,0.678,212077,0.527,0,-9.038,76.847,0.583
+Big Energy (feat. DJ Khaled) - Remix,Latto,72,"pop, r&b, trap queen",795715,72,0.0421,0.87,181666,0.775,1.80E-06,-3.703,106.001,0.792
+It's Givin,Latto,72,"pop, r&b, trap queen",795715,66,0.0259,0.865,153000,0.614,0,-6.782,160.032,0.642
+Gospel (with Eminem),Dr. Dre,79,"g funk, gangster rap, hip hop, rap, west coast rap",7264659,72,0.103,0.919,210027,0.869,1.20E-05,-4.441,117.03,0.655
+Super Urus,LUCKI,66,"plugg, pluggnb, underground hip hop, vapor trap",221139,66,0.00206,0.803,142280,0.624,0.000239,-7.97,134.997,0.669
+Brambleton,Pusha T,76,"hip hop, rap, southern hip hop, trap, underground hip hop, virginia hip hop",2455825,68,0.132,0.739,170911,0.658,0.000129,-4.145,80.955,0.636
+CANDY,ROSALÍA,81,r&b en espanol,5410354,78,0.885,0.638,193480,0.49,0.0116,-5.726,179.905,0.403
+Walkin,Denzel Curry,73,"dark trap, drill, hip hop, miami hip hop, rap, underground hip hop",1862142,68,0.134,0.557,280000,0.654,0,-7.201,135.983,0.386
+SAOKO,ROSALÍA,81,r&b en espanol,5410354,77,0.79,0.827,137533,0.768,2.45E-05,-5.702,99.988,0.734
+Neighborhood Superstar,DaBaby,83,"north carolina hip hop, rap, trap",9667695,66,0.109,0.821,235583,0.714,0,-5.977,81.393,0.665
+Love Me Back (Fayahh Beat),Trinidad Cardona,65,,150948,77,0.0325,0.602,193627,0.612,0.00943,-8.115,95.161,0.692
+Comedy,Gen Hoshino,66,"j-acoustic, j-pop, japanese singer-songwriter",1273146,75,0.0322,0.676,230667,0.461,1.01E-06,-6.746,87.917,0.715
+War,King Von,75,"chicago rap, trap",1999563,66,0.00234,0.915,160133,0.538,0,-5.954,131.919,0.099
+life,Lil Peep,81,"emo rap, lgbtq+ hip hop",9099863,58,0.104,0.57,183267,0.719,0.0166,-7.631,135.001,0.148
+712PM,Future,89,"atl hip hop, rap, southern hip hop, trap",11585626,69,0.0355,0.711,173187,0.686,0,-6.409,146.971,0.536
+SOLO,Eslabon Armado,78,"corrido, corridos tumbados, nueva musica mexicana, sierreno",2165506,68,0.391,0.44,212866,0.641,0,-4.707,179.937,0.305
+Highest Building (feat. Oklou),Flume,73,"australian dance, australian electropop, australian indie, downtempo, edm",2280486,67,0.414,0.414,216818,0.68,8.13E-05,-3.328,74.203,0.51
+Serotonin,Nic D,63,pop rap,185224,67,0.0333,0.81,151301,0.497,0,-7.755,139.988,0.343
+SUPERMODEL,Måneskin,78,"indie rock italiano, italian pop",6014325,83,0.00164,0.636,148064,0.876,0,-3.413,120.983,0.799
+Everything She Ain’t,Hailey Whitters,54,"contemporary country, country pop",26159,66,0.175,0.796,151973,0.621,0,-6.129,121.904,0.808
+Thursday's Child Has Far To Go,TOMORROW X TOGETHER,78,"k-pop, k-pop boy group",6330236,74,0.049,0.631,211399,0.762,0,-4.208,167.14,0.668
+Jus bëtter,Yeat,80,"pluggnb, rap",777203,66,0.018,0.708,188240,0.561,0,-8.453,74.041,0.106
+Choreomania,Florence + The Machine,77,"baroque pop, pop, uk alternative pop",5937620,69,0.0907,0.64,213102,0.674,0.00184,-7.605,156.96,0.275
+Million Dollars Worth of Game (feat. 42 Dugg),2 Chainz,77,"atl hip hop, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",7172668,67,0.00407,0.808,159840,0.677,0,-4.922,97.009,0.46
+Free,Florence + The Machine,77,"baroque pop, pop, uk alternative pop",5937620,69,0.00777,0.465,234858,0.696,0.00196,-6.233,174.806,0.0494
+Ojos Cerrados,Banda MS de Sergio Lizárraga,78,"banda, musica mexicana, norteno",15003212,75,0.336,0.513,180750,0.345,0,-7.579,79.981,0.68
+Mi Despedida,Los Del Limit,65,"corrido, corridos tumbados, nueva musica mexicana",263075,67,0.44,0.531,196065,0.491,0.00116,-8.636,110.228,0.363
+QUE DIABLOS HICE (INTERLUDE),Eslabon Armado,78,"corrido, corridos tumbados, nueva musica mexicana, sierreno",2165506,68,0.964,0.774,107154,0.331,4.61E-05,-9.534,122.949,0.599
+Voodoo,BOA Hunxho,50,,3872,66,0.459,0.724,158694,0.418,0,-13.223,132.159,0.696
+Wildest Dreams (Taylor's Version),Taylor Swift,92,pop,53613642,70,0.0354,0.587,220433,0.663,9.06E-05,-7.423,139.99,0.544
+LUCES ROJAS,Eslabon Armado,78,"corrido, corridos tumbados, nueva musica mexicana, sierreno",2165506,67,0.224,0.621,204483,0.737,0,-6.026,87.949,0.536
+Longneck Way To Go,Midland,63,"neo-traditional country, texas country",219325,66,0.00177,0.485,188400,0.883,6.38E-06,-4.906,129.021,0.604
+I Heard You’re Married (feat. Lil Wayne),The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,71,0.103,0.736,263642,0.848,0,-5.494,109.946,0.784
+Broadway Girls (feat. Morgan Wallen),Lil Durk,84,"chicago drill, chicago rap, drill, hip hop, rap, trap",4075650,65,0.0417,0.659,185600,0.745,0,-3.599,74.967,0.54
+Tendencia Global,Blessd,76,"reggaeton, trap latino",705379,80,0.527,0.867,234402,0.766,8.50E-05,-3.542,91.023,0.607
+April Showers,Koe Wetzel,67,texas country,319281,64,5.12E-05,0.476,182346,0.843,0,-5.765,151.119,0.284
+Soy El Ratón,Código FN,64,"corrido, corridos tumbados, musica mexicana, norteno, nueva musica mexicana",465966,74,0.265,0.818,222670,0.734,0,-5.644,103.052,0.774
+Best Friends,The Weeknd,91,"canadian contemporary r&b, canadian pop, pop",45206489,71,0.436,0.737,163504,0.564,0,-7.045,90,0.528
+Flossin’ (feat. YoungBoy Never Broke Again),Internet Money,73,"rap, trap",635571,66,0.0425,0.713,168000,0.57,0,-8.126,159.99,0.155
+ONE IN A MILLION,Rex Orange County,77,"bedroom pop, pop",4025316,67,0.699,0.765,194893,0.484,0,-6.96,80.003,0.507
+5150,Machine Gun Kelly,81,ohio hip hop,4604714,69,0.000181,0.535,174849,0.94,0.00134,-4.811,157.994,0.536
+No Switch,YoungBoy Never Broke Again,83,"baton rouge rap, trap",8890086,65,0.101,0.682,180706,0.798,0,-6.831,169.959,0.694
+Fantasy (feat. Offset),Big Scarr,60,"memphis hip hop, southern hip hop, trap",181373,65,0.0124,0.934,202783,0.323,0,-11.125,132.95,0.238
+Let's Love,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.00882,0.662,200645,0.868,0.00244,-4.025,92.998,0.353
+If You Really Love Me (How Will I Know),David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,2,0.0512,0.692,184390,0.883,0,-4.698,122.984,0.614
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+If You Really Love Me (How Will I Know),David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0512,0.692,184390,0.883,0,-4.698,122.984,0.614
+MAMIII,Becky G,81,"dance pop, latin, latin viral pop, rap latina, reggaeton",11553692,75,0.0845,0.836,226093,0.703,0,-3.554,94.048,0.902
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+We Not Humping - Remix,Monaleo,55,viral rap,46906,68,0.0344,0.971,143325,0.851,0,-5.586,120.008,0.81
+Vinyl Days (feat. DJ Premier),Logic,77,"conscious hip hop, dmv rap, hip hop, pop rap, rap",5717593,63,0.38,0.694,282581,0.873,0,-2.96,89.958,0.593
+Get Together,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0433,0.849,162051,0.669,3.72E-06,-4.872,117.024,0.607
+Who's That Chick?,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.00377,0.675,201040,0.602,0,-4.733,127.938,0.933
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,2,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Who's That Chick?,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,2,0.00377,0.675,201040,0.602,0,-4.733,127.938,0.933
+If You Really Love Me (How Will I Know),David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0512,0.692,184390,0.883,0,-4.698,122.984,0.614
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Memories - 2021 Remix,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+If You Really Love Me (How Will I Know),David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0512,0.692,184390,0.883,0,-4.698,122.984,0.614
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Flames,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.0722,0.61,195000,0.728,8.17E-06,-4.347,93.959,0.364
+If You Really Love Me (How Will I Know),David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0512,0.692,184390,0.883,0,-4.698,122.984,0.614
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Who's That Chick?,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.00377,0.675,201040,0.602,0,-4.733,127.938,0.933
+If You Really Love Me (How Will I Know),David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0512,0.692,184390,0.883,0,-4.698,122.984,0.614
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Memories - 2021 Remix,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+NO TRENDS,Mike Dimes,63,rap,108931,66,0.0098,0.727,151286,0.723,4.44E-06,-4.862,139.992,0.739
+Shot Clock Violations,Tory Lanez,79,"canadian hip hop, canadian trap, melodic rap, pop rap, r&b, rap, toronto rap, trap",4408090,62,0.45,0.645,255027,0.698,0,-7.382,87.827,0.667
+Closer (feat. H.E.R.),Saweetie,74,"cali rap, dance pop, pop, pop rap, r&b, trap queen",1588710,69,0.139,0.833,168873,0.691,2.99E-05,-5.771,110.985,0.866
+SOON (feat. Arabian),42 Dugg,74,"detroit trap, rap, southern hip hop, trap",646327,63,0.112,0.665,159104,0.633,0,-9.324,168.985,0.254
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+deja vu,Olivia Rodrigo,85,pop,17175507,1,0.593,0.439,215508,0.61,1.07E-05,-7.236,181.088,0.172
+traitor,Olivia Rodrigo,85,pop,17175507,0,0.691,0.38,229227,0.339,0,-7.885,100.607,0.0849
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+traitor,Olivia Rodrigo,85,pop,17175507,1,0.691,0.38,229227,0.339,0,-7.885,100.607,0.0849
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+deja vu,Olivia Rodrigo,85,pop,17175507,0,0.593,0.439,215508,0.61,1.07E-05,-7.236,181.088,0.172
+traitor,Olivia Rodrigo,85,pop,17175507,1,0.691,0.38,229227,0.339,0,-7.885,100.607,0.0849
+drivers license,Olivia Rodrigo,85,pop,17175507,1,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+#doyalike,kazeWIW,55,,1212,71,0.0959,0.634,183066,0.69,0.564,-8.316,96.115,0.399
+Who's That Chick?,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.00377,0.675,201040,0.602,0,-4.733,127.938,0.933
+Who's That Chick?,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.00377,0.675,201040,0.602,0,-4.733,127.938,0.933
+If You Really Love Me (How Will I Know),David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0512,0.692,184390,0.883,0,-4.698,122.984,0.614
+Who's That Chick?,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.00377,0.675,201040,0.602,0,-4.733,127.938,0.933
+Family,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,1,0.0744,0.687,158995,0.717,0,-6.61,88.063,0.685
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Family,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0744,0.687,158995,0.717,0,-6.61,88.063,0.685
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+Family,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,4,0.0744,0.687,158995,0.717,0,-6.61,88.063,0.685
+Crazy What Love Can Do,David Guetta,86,"big room, dance pop, edm, pop, pop dance, pop rap",24294018,0,0.0282,0.601,169756,0.713,0,-3.758,122.872,0.464
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,1,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+drivers license,Olivia Rodrigo,85,pop,17175507,2,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+drivers license,Olivia Rodrigo,85,pop,17175507,1,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+traitor,Olivia Rodrigo,85,pop,17175507,0,0.691,0.38,229227,0.339,0,-7.885,100.607,0.0849
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+deja vu,Olivia Rodrigo,85,pop,17175507,1,0.593,0.439,215508,0.61,1.07E-05,-7.236,181.088,0.172
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+deja vu,Olivia Rodrigo,85,pop,17175507,1,0.593,0.439,215508,0.61,1.07E-05,-7.236,181.088,0.172
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+traitor,Olivia Rodrigo,85,pop,17175507,0,0.691,0.38,229227,0.339,0,-7.885,100.607,0.0849
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+King,Florence + The Machine,77,"baroque pop, pop, uk alternative pop",5937620,69,0.136,0.731,280131,0.45,0.000989,-8.086,105.989,0.0856
+HOME,Mike Dimes,63,rap,108931,66,0.342,0.895,174915,0.468,0,-5.777,118.019,0.428
+Computer Murderers,Lil Durk,84,"chicago drill, chicago rap, drill, hip hop, rap, trap",4075650,65,0.000408,0.672,139533,0.564,0,-10.418,173.007,0.195
+"Blood All On it (feat. Key Glock, Young Dolph)",Gucci Mane,77,"atl hip hop, dirty south rap, gangster rap, hip hop, pop rap, rap, southern hip hop, trap",4337750,65,0.0277,0.858,234869,0.7,0,-4.677,140.08,0.825
+Un Viaje,Jotaerre,58,,1686,75,0.151,0.726,285747,0.778,0,-4.541,175.889,0.725
+Slut Me Out,NLE Choppa,76,memphis hip hop,4646214,66,0.117,0.938,123673,0.606,0,-6.396,121.108,0.706
+From My Window,Juice WRLD,88,"chicago rap, melodic rap",24114636,67,0.129,0.702,187212,0.514,0,-6.674,76.982,0.133
+Chingas A Tu Madre,Fuerza Regida,74,"corrido, corridos tumbados, musica mexicana, nueva musica mexicana, sierreno",1591858,70,0.366,0.539,205125,0.318,0,-8.023,143.286,0.759
+deja vu,Olivia Rodrigo,85,pop,17175507,0,0.593,0.439,215508,0.61,1.07E-05,-7.236,181.088,0.172
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+drivers license,Olivia Rodrigo,85,pop,17175507,1,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+traitor,Olivia Rodrigo,85,pop,17175507,1,0.691,0.38,229227,0.339,0,-7.885,100.607,0.0849
+drivers license,Olivia Rodrigo,85,pop,17175507,1,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+drivers license,Olivia Rodrigo,85,pop,17175507,0,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+deja vu,Olivia Rodrigo,85,pop,17175507,0,0.593,0.439,215508,0.61,1.07E-05,-7.236,181.088,0.172
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+deja vu,Olivia Rodrigo,85,pop,17175507,1,0.593,0.439,215508,0.61,1.07E-05,-7.236,181.088,0.172
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+deja vu,Olivia Rodrigo,85,pop,17175507,0,0.593,0.439,215508,0.61,1.07E-05,-7.236,181.088,0.172
+drivers license,Olivia Rodrigo,85,pop,17175507,1,0.721,0.585,242014,0.436,1.31E-05,-8.761,143.874,0.132
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+good 4 u,Olivia Rodrigo,85,pop,17175507,0,0.3,0.556,178148,0.661,0,-5.052,168.56,0.668
+Masterpiece,Motionless In White,66,"alternative metal, metalcore",1051179,67,0.000109,0.324,206648,0.863,0,-3.716,177.985,0.394
+Need You,Fresco Trey,57,"memphis hip hop, pop rap, sad rap",62075,66,0.073,0.718,173066,0.596,0,-8.195,87.977,0.475
+BIZCOCHITO,ROSALÍA,81,r&b en espanol,5410354,79,0.605,0.93,109120,0.774,0.0238,-4.203,116.972,0.781
+Don’t Wake Me Up,Jonas Blue,75,"dance pop, edm, pop, pop dance, tropical house, uk dance",3554416,76,0.222,0.621,188894,0.747,0.000194,-5.084,124.015,0.426
+You Wouldn't Understand,Juice WRLD,88,"chicago rap, melodic rap",24114636,67,0.0012,0.724,170792,0.748,0,-4.335,158.04,0.118
+Doja,$NOT,73,"aesthetic rap, florida rap, rap, underground hip hop, vapor trap",1088943,68,0.0725,0.753,171453,0.777,0.000714,-5.701,157.148,0.669
+Trust Fund Baby,TOMORROW X TOGETHER,78,"k-pop, k-pop boy group",6330236,74,0.715,0.465,156364,0.407,0,-7.859,66.802,0.347
+Flower Shops (feat. Morgan Wallen),ERNEST,63,contemporary country,37265,64,0.118,0.527,214405,0.461,0,-5.908,128.153,0.227
+Rocky Road (with Kodak Black),Moneybagg Yo,77,"hip hop, memphis hip hop, rap, southern hip hop, tennessee hip hop, trap",2895289,51,0.00909,0.712,178948,0.644,0,-7.348,172.937,0.541
+up again,mike.,68,"indie pop rap, pop rap, rhode island rap",502276,65,0.627,0.844,168902,0.407,0.0276,-9.092,92.981,0.311
+Will It Ever Feel The Same?,Bazzi,73,"dance pop, electropop, pop",5024248,69,0.586,0.639,180339,0.544,0,-6.152,129.908,0.483
+Shivering (feat. Spiritbox),ILLENIUM,72,"edm, melodic dubstep, pop, pop dance, tropical house",1256732,66,0.00594,0.428,300917,0.907,1.71E-06,-3.063,149.955,0.244
+Lonely Boy (The tattoo on my ring finger),TOMORROW X TOGETHER,78,"k-pop, k-pop boy group",6330236,73,0.24,0.666,168752,0.639,0,-5.245,144.881,0.505
+Sucker for Pain,Lil Wayne,85,"hip hop, new orleans rap, pop rap, rap, trap",12105652,1,0.255,0.502,243491,0.786,0,-4.378,169.023,0.738
+Johnny P's Caddy,Benny The Butcher,64,"boom bap, buffalo hip hop, hip hop, rap, upstate ny rap",245682,67,0.584,0.535,225000,0.819,0,-6.792,150.451,0.581
+Me Myself & I,5 Seconds of Summer,79,"boy band, dance pop, pop, post-teen pop",8556324,74,0.0303,0.575,177879,0.556,0,-5.107,87.991,0.44
+prolly my spookiest beat,prodby668,61,sped up,21804,72,0.0164,0.7,119409,0.568,0.881,-10.209,145.019,0.873
+hope ur ok,Olivia Rodrigo,85,pop,17175507,0,0.388,0.443,209560,0.298,1.00E-05,-12.181,77.253,0.172
+"OPEN A WINDOW (feat. Tyler, The Creator)",Rex Orange County,77,"bedroom pop, pop",4025316,67,0.282,0.541,218587,0.607,0,-7.174,79.974,0.548
+Toxic,BoyWithUke,78,,1401969,74,0.749,0.609,168067,0.619,0,-5.677,179.71,0.689
+LA INOCENTE,Mora,80,"latin, reggaeton, trap latino",457772,80,0.307,0.757,202174,0.789,0,-3.46,91.911,0.464
+WA DA DA,Kep1er,64,k-pop,550515,76,0.00122,0.785,183693,0.907,3.11E-06,-2.657,126.004,0.685
+Vegas (I Wanna Ride),Joseline Hernandez,57,trap queen,27004,74,0.156,0.686,220552,0.588,0,-11.444,78.347,0.7
